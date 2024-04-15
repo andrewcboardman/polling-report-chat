@@ -1,0 +1,37 @@
+Unnamed: 0,<< Contents,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,P024065 BBC 100 Women10th Anniversary Survey 2022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Table 32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EMP_STATUS_1. Currently (i.e. 2022): Which of the following best describes your working status...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,BASE: All respondents,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Total,Brazil,China,Egypt,India,Indonesia,Kenya,Mexico,Nigeria,Pakistan,Russia,Saudi Arabia,Turkey,UK,Ukraine,USA,18-24,25-34,35-44,45-54,55-64,65+,18-34,35-54,55+,Working (full time or part time),Not working,In education,Retired,"Other (incl. house wife, full time carer)",Single,NET: In a relationship,Living as a couple/Co-habiting,Married / civil partnership,Separated/divorced/widowed
+,Significance Level: 95%,,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,a,b,c,d,e,f,g,h,i,a,b,c,d,e,a,b,c,d,e
+,Unweighted Total,15723,1008,1025,1067,1107,1061,1022,1109,1018,1006,1010,1012,1160,1067,1009,1042,2783,3933,3188,2452,1800,1567,6716,5640,3367,9808,1729,1142,1391,1653,4049,9699,2237,7462,1792
+,Total,15723,1008,1025,1067,1107,1061,1022,1109,1018,1006,1010,1012,1160,1067,1009,1042,2585,3428,3037,2724,2084,1865,6014,5761,3949,9703,1725,1078,1586,1631,3857,9765,2304,7461,1931
+,Working full time - working 30 hours per week or more,6974,479,760,448,619,508,430,463,531,216,450,435,622,380,295,340,686,1835,1719,1550,808,375,2522,3269,1183,6974,0,0,0,0,1370,5045,1088,3958,537
+,,0.44,0.47,0.74,0.42,0.56,0.48,0.42,0.42,0.52,0.21,0.45,0.43,0.54,0.36,0.29,0.33,0.27,0.54,0.57,0.57,0.39,0.2,0.42,0.57,0.3,0.72,0,0,0,0,0.36,0.52,0.47,0.53,0.28
+,,,cfgikmno,acdefghijklmno,imno,acefgijkmno,cfgikmno,imno,imno,acfgijkmno,,imno,imno,acefgijkmno,in,i,i,f,aefgi,abefgi,abefgi,afi,,aefi,abefgi,af,bcde,,,,,e,ace,ae,ace,
+,Working part time - working up to 29 hours per week,2729,171,68,356,177,222,260,252,179,109,141,164,81,246,159,144,512,680,566,399,355,218,1192,965,573,2729,0,0,0,0,712,1720,440,1280,272
+,,0.17,0.17,0.07,0.33,0.16,0.21,0.25,0.23,0.18,0.11,0.14,0.16,0.07,0.23,0.16,0.14,0.2,0.2,0.19,0.15,0.17,0.12,0.2,0.17,0.15,0.28,0,0,0,0,0.18,0.18,0.19,0.17,0.14
+,,,bilo,,abdefghijklmno,bil,abdhijklno,abdehijklno,abdhijklno,bijlo,bl,bil,bil,,abdhijklno,bil,bil,defhi,defhi,dfhi,f,dfi,,defhi,dfi,f,bcde,,,,,e,e,de,e,
+,Not working but seeking work or temporarily unemployed or sick,1226,83,10,60,47,53,133,59,89,185,49,90,45,42,191,90,315,305,191,211,135,68,620,402,204,0,1226,0,0,0,484,549,183,366,160
+,,0.08,0.08,0.01,0.06,0.04,0.05,0.13,0.05,0.09,0.18,0.05,0.09,0.04,0.04,0.19,0.09,0.12,0.09,0.06,0.08,0.06,0.04,0.1,0.07,0.05,0,0.71,0,0,0,0.13,0.06,0.08,0.05,0.08
+,,,bcdegjlm,,b,b,b,abcdeghjklmo,b,bcdegjlm,abcdefghjklmo,b,bcdegjlm,b,b,abcdefghjklmo,bcdegjlm,bcdefghi,cefhi,fi,cfi,fi,,bcdefhi,fi,f,,acde,,,,bcde,d,bd,,bd
+,Not working and not seeking work,499,23,4,33,19,38,16,35,12,39,26,51,40,39,40,85,96,77,91,82,91,62,173,173,153,0,499,0,0,0,182,206,64,141,101
+,,0.03,0.02,*%,0.03,0.02,0.04,0.02,0.03,0.01,0.04,0.03,0.05,0.03,0.04,0.04,0.08,0.04,0.02,0.03,0.03,0.04,0.03,0.03,0.03,0.04,0,0.29,0,0,0,0.05,0.02,0.03,0.02,0.05
+,,,bh,,bdfh,b,bdfh,b,bdfh,b,abdfh,bh,abcdfghj,bdfh,bdfh,abdfh,abcdefghijklmn,bg,,b,,bcdgh,b,,b,bgh,,acde,,,,bcd,,bd,,bcd
+,In education,1078,42,55,79,79,54,132,44,150,208,22,76,61,26,32,17,824,144,49,26,13,22,968,75,35,0,0,1078,0,0,834,168,79,90,46
+,,0.07,0.04,0.05,0.07,0.07,0.05,0.13,0.04,0.15,0.21,0.02,0.07,0.05,0.02,0.03,0.02,0.32,0.04,0.02,0.01,0.01,0.01,0.16,0.01,0.01,0,0,1,0,0,0.22,0.02,0.03,0.01,0.02
+,,,jmo,jmno,aegjlmno,aegjmno,jmno,abcdegjklmno,jmo,abcdegjklmno,abcdefghjklmno,,aegjlmno,jmno,,o,,bcdefghi,cdefhi,dei,,,,bcdefhi,e,,,,abde,,,bcde,d,bd,,d
+,Retired,1586,125,108,15,40,33,9,73,15,10,261,12,199,245,186,254,18,13,24,69,444,1018,30,93,1463,0,0,0,1586,0,143,773,137,636,653
+,,0.1,0.12,0.11,0.01,0.04,0.03,0.01,0.07,0.02,0.01,0.26,0.01,0.17,0.23,0.18,0.24,0.01,*%,0.01,0.03,0.21,0.55,0.01,0.02,0.37,0,0,0,1,0,0.04,0.08,0.06,0.09,0.34
+,,,cdefghik,cdefghik,,cfhik,cfhik,,cdefhik,,,abcdefghikln,,abcdefghik,abcdefghikln,abcdefghik,abcdefghikln,,,b,abcgh,abcdgh,abcdeghi,,abcg,abcdegh,,,,abce,,,ac,a,ac,abcd
+,House-wife / house-husband,1520,77,19,76,116,151,32,173,31,220,54,181,107,82,96,106,111,348,374,365,225,96,459,739,321,0,0,0,0,1520,96,1244,298,946,152
+,,0.1,0.08,0.02,0.07,0.1,0.14,0.03,0.16,0.03,0.22,0.05,0.18,0.09,0.08,0.1,0.1,0.04,0.1,0.12,0.13,0.11,0.05,0.08,0.13,0.08,0,0,0,0,0.93,0.02,0.13,0.13,0.13,0.08
+,,,bfhj,,bfh,abcfhjm,abcdfhjlmno,,abcdfhjlmno,,abcdefghjklmno,bfh,abcdefhjlmno,bfhj,bfhj,bcfhj,abcfhj,,afgi,abfgi,abefgi,afgi,,af,abefgi,af,,,,,abcd,,ae,ae,ae,a
+,Full time carer,111,8,2,1,9,3,10,10,12,19,7,4,4,7,10,5,23,27,23,21,12,5,50,44,17,0,0,0,0,111,36,60,15,44,10
+,,0.01,0.01,*%,*%,0.01,*%,0.01,0.01,0.01,0.02,0.01,*%,*%,0.01,0.01,*%,0.01,0.01,0.01,0.01,0.01,*%,0.01,0.01,*%,0,0,0,0,0.07,0.01,0.01,0.01,0.01,*%
+,,,bc,,,bc,,bc,bc,bcel,abcdejklmo,c,,,c,bce,,fi,f,,f,,,fi,f,,,,,,abcd,bd,,,,
+,"Columns Tested: a,b,c,d,e,f,g,h,i,j,k,l,m,n,o - a,b,c,d,e,f,g,h,i - a,b,c,d,e - a,b,c,d,e",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Prepared by Savanta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

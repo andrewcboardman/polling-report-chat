@@ -1,0 +1,30 @@
+Unnamed: 0,<< Contents,Unnamed: 2,Unnamed: 3
+,JRF - Low Income Households - Wave 4,,
+,Table 112,,
+,"Q13f. Thinking about the past thirty days, could you tell us to what extent are the following statements true?",,
+,BASE: All respondents,,
+,,Statement,
+,,I or members of my household cut down the size of meals or skip meals because there wasn't enough money for food,I or members of my households were hungry but did not have enough money for food
+,Significance Level: 95%,a,b
+,Unweighted Total,4004,4004
+,Total,4004,4004
+,This is often true (2.0),690,509
+,,0.17,0.13
+,,b,
+,This is sometimes true (1.0),1184,864
+,,0.3,0.22
+,,b,
+,This is never true (0.0),2129,2631
+,,0.53,0.66
+,,,a
+,Net: True,1875,1373
+,,0.47,0.34
+,,b,
+,Base for stats,4004,4004
+,Mean score,0.64,0.47
+,,b,
+,Standard Deviation,0.758,0.709
+,Error variance,*,*
+,"Columns Tested: a,b",,
+,,,
+,Prepared by Savanta,,

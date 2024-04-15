@@ -1,0 +1,28 @@
+Unnamed: 0,<< Contents,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,JRF - Low Income Households - Wave 4,,,,,,,,,,,,,,
+,Table 26,,,,,,,,,,,,,,
+,"Q9a. For each of the following types of debt, please tell us whether it was a new debt for your household in the last six months (since November 2022) or if you already had it before November 2022, and if it has changed in size?",,,,,,,,,,,,,,
+,BASE: All respondents,,,,,,,,,,,,,,
+,,Type of debt,,,,,,,,,,,,,
+,,Personal loan from a bank/building society,Personal loan from a payday lender,Buy now pay later / hire purchase,Overdraft (amount you use not max limit),Credit card (amount owed that you can't repay at the end of the month - not the maximum limit),Money borrowed from family or friends,Universal credit advance payment,"Benefit or tax credit overpayments (eg. repaying child tax credit, working tax credit, Universal Credit or housing overpayments)","Personal loan from an unlicensed lender (i.e. a lender providing short term loans at a high cost - sometimes known as a loan shark). This excludes loans from lenders such as banks, authorised doorstep lenders or payday lenders.",Personal loan from an authorised doorstep lender or home credit lender (where you borrow money and the lender calls at your home to collect the repayments),"Loans where personal owned items are put up as collateral in exchange for cash (eg. pawn brokers, cash converters, log book loans)",DWP (Department of Work and Pensions) budgeting advance or budgeting loan,Personal loan from a credit union,Catalogue credit
+,Significance Level: 95%,a,b,c,d,e,f,g,h,i,j,k,l,m,n
+,Unweighted Total,4004,4004,4004,4004,4004,4004,806,2279,4004,4004,4004,2279,4004,4004
+,Total,4004,4004,4004,4004,4004,4004,755,2220,4004,4004,4004,2220,4004,4004
+,This is a new debt in the last six months (since November 2022),212,176,422,294,376,436,104,177,153,152,167,199,182,232
+,,0.05,0.04,0.11,0.07,0.09,0.11,0.14,0.08,0.04,0.04,0.04,0.09,0.05,0.06
+,,ijk,,abdhijklmn,abijkmn,abdijkmn,abdehijklmn,abcdefhijklmn,abijkmn,,,,abdijkmn,,bijkm
+,We had this debt before November 2022 and the size of it has increased since November 2022,266,226,321,338,479,290,82,212,196,232,218,168,204,288
+,,0.07,0.06,0.08,0.08,0.12,0.07,0.11,0.1,0.05,0.06,0.05,0.08,0.05,0.07
+,,ikm,,abijkm,abfijkmn,abcdfhijklmn,bijkm,abcdfijklmn,abcfijklmn,,,,bijkm,,bijkm
+,We had this debt before November 2022 and the size of it has not increased (stayed the same or decreased) since November 2022,369,186,354,457,573,287,101,194,206,195,192,181,210,324
+,,0.09,0.05,0.09,0.11,0.14,0.07,0.13,0.09,0.05,0.05,0.05,0.08,0.05,0.08
+,,bfijkm,,bfijkm,abcfhijklmn,abcdfhijklmn,bijkm,abcfhijklmn,bfijkm,,,,bijkm,,bijkm
+,Not relevant - do not hold this debt,3093,3340,2845,2847,2502,2923,438,1575,3365,3353,3354,1606,3333,3072
+,,0.77,0.83,0.71,0.71,0.62,0.73,0.58,0.71,0.84,0.84,0.84,0.72,0.83,0.77
+,,cdefghl,acdefghln,eg,eg,g,eg,,eg,acdefghln,acdefghln,acdefghln,eg,acdefghln,cdefghl
+,Don't know,64,76,62,67,74,69,29,62,84,73,74,66,74,88
+,,0.02,0.02,0.02,0.02,0.02,0.02,0.04,0.03,0.02,0.02,0.02,0.03,0.02,0.02
+,,,,,,,,abcdefijkmn,abcdefjkm,,,,abcdefijkm,,c
+,"Columns Tested: a,b,c,d,e,f,g,h,i,j,k,l,m,n",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Prepared by Savanta,,,,,,,,,,,,,,

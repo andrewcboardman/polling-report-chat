@@ -1,0 +1,80 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,,
+,,,,P037330 - KA Fraud Victims,,
+,,,,,,
+,,,,,,
+,,,,Table 1 SEGMENT.,,BASE: All respondents
+,,,,,,
+,,,,Table 2 Gender. In which of the following ways do you identify?,,BASE: All respondents
+,,,,,,
+,,,,Table 3 Age. How old are you?,,BASE: All respondents
+,,,,,,
+,,,,Table 4 Regions. Where do you live?,,BASE: All respondents
+,,,,,,
+,,,,Table 5 UKCities. What is the nearest city to where you live?,,BASE: All respondents
+,,,,,,
+,,,,Table 6 Occupation. Which of the following best describes the profession of the chief income earner in your household?,,BASE: All respondents
+,,,,,,
+,,,,Table 7 OccupationRetired. Which of the following best describes the previous occupation of the chief income earner in your household before retirement?,,BASE: All retired on provate pension
+,,,,,,
+,,,,Table 8 Occupation/OccupationRetired. Which of the following best describes the profession of the chief income earner in your household? Including previous occupation,,BASE: All respondents
+,,,,,,
+,,,,Table 9 dSEG. SEG - set from Occupation question,,BASE: All respondents
+,,,,,,
+,,,,Table 10 Ethnicity. How would you describe your ethnic origin?,,BASE: All respondents
+,,,,,,
+,,,,"Table 11 Q1. Have you ever been a victim of fraud? (Please note, this could be any type of fraud - such as text scams, romance fraud, cold calling, identity theft, investment fraud, etc.)",,BASE: All respondents
+,,,,,,
+,,,,Table 12 Q1b. Did you lose any money when you were a victim of fraud?,,BASE: All respondents
+,,,,,,
+,,,,Table 13 Q2. What type of fraud were you a victim of?,,BASE: All respondents
+,,,,,,
+,,,,"Table 14 Q3. You said that you lost money as a result of being a victim of fraud. Which of the following statements, if any, apply to your experience of being a victim of fraud?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 15 Q4. Reflecting on your experience(s) of being defrauded, how did you feel immediately after the incident (i.e., at the time you lost your money, or discovered the person you had been speaking with was not who they said they were)?",,BASE: All respondents
+,,,,,,
+,,,,"Table 16 Q5_1. Your sleep: What impact, if any, did your experience of being defrauded have on the following:",,BASE: All respondents
+,,,,,,
+,,,,"Table 17 Q5_2. Your personal relationships: What impact, if any, did your experience of being defrauded have on the following:",,BASE: All respondents
+,,,,,,
+,,,,"Table 18 Q5_3. Your ability to work: What impact, if any, did your experience of being defrauded have on the following:",,BASE: All respondents
+,,,,,,
+,,,,"Table 19 Q5_4. Your mood: What impact, if any, did your experience of being defrauded have on the following:",,BASE: All respondents
+,,,,,,
+,,,,"Table 20 Q5. What impact, if any, did your experience of being defrauded have on the following: SUMMARY",,BASE: All respondents
+,,,,,,
+,,,,"Table 21 Q6. Roughly, how long do you estimate that your sleep was impacted for, after you lost money from fraud? If you can't remember, please give your best guess.",,BASE: Those whose sleep had a significant/ impact (at Q5a)
+,,,,,,
+,,,,"Table 22 Q7. Which of the following reasons, if any, do you think explain why being defrauded impacted your sleep?",,BASE: Those whose sleep had a significant/ impact (at Q5a)
+,,,,,,
+,,,,"Table 23 Q8. Since losing money, have you experienced any changes in your physical health that you feel could be a result of being a victim of fraud? Examples may include increased blood pressure or weight gain as a result of prolonged stress caused by the incident.",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,Table 24 Q9. What changes have you experienced in your physical health since being a victim of fraud?,,BASE: Those who experienced changes in physical health (at Q8)ictim of fraud
+,,,,,,
+,,,,"Table 25 Q10_1. I have struggled with alcohol misuse since being a victim of fraud: Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 26 Q10_2. I have struggled with drug/illegal substances misuse since being a victim of fraud: Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 27 Q10_3. I have struggled with self-care since being a victim of fraud: Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 28 Q10_4. I trust people less since being a victim of fraud: Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 29 Q10_5. I trust my gut instinct more since being a victim of fraud: Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 30 Q10_6. I am warier of strangers since being a victim of fraud: Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 31 Q10_7. I feel more confident in my ability to spot fraud since being a victim: Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 32 Q10_8. Being a victim of fraud has made me more mindful of how I spend my money: Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements?",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 33 Q10. Reflecting on your experience(s) of having money stolen from you by fraudsters, to what extent do you agree or disagree with each the following statements? SUMMARY",,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,Table 34 Q11. To what extent do you agree or disagree with the following statement: 'Being a victim of fraud has had a negative impact on my mental health'?,,BASE: Those who lost money as a result (at Q1b)
+,,,,,,
+,,,,"Table 35 Q12. In what way(s) has being a victim of fraud impacted your mental health? If fraudsters have stolen money from you on more than one occasion, please consider how, collectively, being defrauded has had a negative impact on your mental health.",,BASE: All respondents
+,,,,,,
+,,,,Table 36 Q13. Have you ever sought professional help about the way(s) fraud has impacted your mental health?,,BASE: All respondents
+,,,,,,
+,,,,Table 37 Q14. Where did you seek support for your mental health after being defrauded?,,BASE: All respondents
+,,,,,,
+,,,,Table 38 BK,,BASE: All respondents

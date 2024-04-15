@@ -1,0 +1,52 @@
+Unnamed: 0,<< Contents,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
+,P024065 BBC 100 Women10th Anniversary Survey 2022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Table 18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Q7. In which following areas do you feel like your life has progressed the most in the last 10 years (i.e. since 2012)?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,BASE: All respondents,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Total,Brazil,China,Egypt,India,Indonesia,Kenya,Mexico,Nigeria,Pakistan,Russia,Saudi Arabia,Turkey,UK,Ukraine,USA,18-24,25-34,35-44,45-54,55-64,65+,18-34,35-54,55+,Working (full time or part time),Not working,In education,Retired,"Other (incl. house wife, full time carer)",Single,NET: In a relationship,Living as a couple/Co-habiting,Married / civil partnership,Separated/divorced/widowed
+,Significance Level: 95%,,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,a,b,c,d,e,f,g,h,i,a,b,c,d,e,a,b,c,d,e
+,Unweighted Total,15723,1008,1025,1067,1107,1061,1022,1109,1018,1006,1010,1012,1160,1067,1009,1042,2783,3933,3188,2452,1800,1567,6716,5640,3367,9808,1729,1142,1391,1653,4049,9699,2237,7462,1792
+,Total,15723,1008,1025,1067,1107,1061,1022,1109,1018,1006,1010,1012,1160,1067,1009,1042,2585,3428,3037,2724,2084,1865,6014,5761,3949,9703,1725,1078,1586,1631,3857,9765,2304,7461,1931
+,Access to the internet,9828,729,535,632,639,680,677,659,667,605,753,593,760,597,750,552,1574,2154,1893,1698,1373,1136,3728,3591,2509,6036,1061,650,1024,1057,2400,6107,1326,4781,1240
+,,0.63,0.72,0.52,0.59,0.58,0.64,0.66,0.59,0.65,0.6,0.75,0.59,0.66,0.56,0.74,0.53,0.61,0.63,0.62,0.62,0.66,0.61,0.62,0.62,0.64,0.62,0.62,0.6,0.65,0.65,0.62,0.63,0.58,0.64,0.64
+,,,bcdefghiklmo,,bo,bo,bcdgkmo,bcdgikmo,bo,bcdgikmo,bo,bcdefghiklmo,bo,bcdgikmo,,bcdefghiklmo,,,,,,abcdfgh,,,,a,,,,c,abc,c,c,,abc,c
+,Personal independence (i.e. making your own life decisions),8109,671,549,470,540,581,641,691,547,329,515,526,519,493,558,479,1328,1901,1566,1379,1072,864,3229,2945,1935,5287,778,516,773,756,2037,4901,1097,3804,1117
+,,0.52,0.67,0.54,0.44,0.49,0.55,0.63,0.62,0.54,0.33,0.51,0.52,0.45,0.46,0.55,0.46,0.51,0.55,0.52,0.51,0.51,0.46,0.54,0.51,0.49,0.54,0.45,0.48,0.49,0.46,0.53,0.5,0.48,0.51,0.58
+,,,bcdeghijklmno,cdilmo,i,ci,cdilmo,bcdehijklmno,bcdehijklmno,cdilmo,,cilmo,cilmo,i,i,cdilmo,i,f,acdefhi,fi,f,f,,acdfhi,f,,bcde,,,b,,bc,c,,c,abcd
+,Freedom to express your own views,7501,604,502,515,544,517,602,661,554,404,348,479,469,385,508,410,1304,1738,1462,1345,927,724,3043,2808,1651,4793,779,528,640,761,1892,4689,1022,3667,859
+,,0.48,0.6,0.49,0.48,0.49,0.49,0.59,0.6,0.54,0.4,0.34,0.47,0.4,0.36,0.5,0.39,0.5,0.51,0.48,0.49,0.44,0.39,0.51,0.49,0.42,0.49,0.45,0.49,0.4,0.47,0.49,0.48,0.44,0.49,0.44
+,,,bcdehijklmno,ijlmo,ijlmo,ijlmo,ijlmo,bcdehijklmno,bcdehijklmno,bcdeijklmo,j,,ijlmo,jm,,ijlmo,j,efi,cefi,efi,efi,f,,cefhi,efi,f,bde,d,bd,,d,ce,ce,,ce,
+,Financial freedom,6698,595,489,475,543,448,495,544,418,259,427,467,501,345,370,322,1030,1603,1354,1201,837,674,2633,2554,1511,4759,493,327,564,555,1561,4312,896,3416,788
+,,0.43,0.59,0.48,0.44,0.49,0.42,0.48,0.49,0.41,0.26,0.42,0.46,0.43,0.32,0.37,0.31,0.4,0.47,0.45,0.44,0.4,0.36,0.44,0.44,0.38,0.49,0.29,0.3,0.36,0.34,0.4,0.44,0.39,0.46,0.41
+,,,bcdefghijklmno,ehijlmno,imno,cehijlmno,imno,ehijlmno,cehijlmno,imno,,imno,himno,imno,i,imo,i,f,adefghi,aefi,aefi,f,,aefi,aefi,,bcde,,,bc,bc,,ace,,abce,
+,Access to education,6406,461,394,463,548,389,612,409,535,491,298,482,535,201,335,252,1401,1594,1216,1049,624,522,2995,2265,1146,4179,640,652,368,566,1839,3966,893,3073,538
+,,0.41,0.46,0.38,0.43,0.5,0.37,0.6,0.37,0.53,0.49,0.3,0.48,0.46,0.19,0.33,0.24,0.54,0.46,0.4,0.39,0.3,0.28,0.5,0.39,0.29,0.43,0.37,0.61,0.23,0.35,0.48,0.41,0.39,0.41,0.28
+,,,begjmno,jmno,begjmno,bcegjmno,jmo,abcdeghijklmno,jmo,abcegjklmno,bcegjmno,mo,begjmno,begjmno,,mo,m,bcdefghi,cdefhi,efi,efi,,,bcdefhi,efi,,bde,d,abde,,d,bcde,e,e,ce,
+,Freedom to travel or move around as desired,6130,495,472,355,483,425,494,424,347,243,393,433,475,336,473,281,920,1354,1204,1119,875,659,2273,2323,1534,4097,565,343,606,518,1398,3905,829,3076,779
+,,0.39,0.49,0.46,0.33,0.44,0.4,0.48,0.38,0.34,0.24,0.39,0.43,0.41,0.31,0.47,0.27,0.36,0.39,0.4,0.41,0.42,0.35,0.38,0.4,0.39,0.42,0.33,0.32,0.38,0.32,0.36,0.4,0.36,0.41,0.4
+,,,cdeghijklmo,ceghijlmo,io,cghijmo,chimo,cdeghijklmo,chimo,io,,chimo,cghimo,chimo,io,ceghijlmo,,,af,af,afg,afgi,,a,afg,af,bcde,,,bce,,,ac,,ac,ac
+,Equality in the home (i.e. responsibilities split equally between men and women),5628,444,480,309,510,372,420,516,302,267,304,329,470,300,337,268,826,1311,1144,1056,705,586,2137,2200,1291,3836,462,313,456,561,1092,3968,827,3141,531
+,,0.36,0.44,0.47,0.29,0.46,0.35,0.41,0.47,0.3,0.26,0.3,0.32,0.41,0.28,0.33,0.26,0.32,0.38,0.38,0.39,0.34,0.31,0.36,0.38,0.33,0.4,0.27,0.29,0.29,0.34,0.28,0.41,0.36,0.42,0.28
+,,,cehijkmno,cefhijklmno,,cefhijklmno,chijmo,cehijkmno,cefhijklmno,o,,o,imo,cehijkmno,,cimo,,,aefgi,aefgi,aefgi,,,afi,aefgi,,bcde,,,,bcd,,ace,ae,ace,
+,Access to jobs,5192,380,325,398,474,386,371,426,353,282,197,405,446,254,198,297,905,1398,1083,900,513,393,2303,1983,906,3891,396,277,252,376,1303,3440,712,2728,422
+,,0.33,0.38,0.32,0.37,0.43,0.36,0.36,0.38,0.35,0.28,0.19,0.4,0.38,0.24,0.2,0.28,0.35,0.41,0.36,0.33,0.25,0.21,0.38,0.34,0.23,0.4,0.23,0.26,0.16,0.23,0.34,0.35,0.31,0.37,0.22
+,,,bijmno,jmn,bijmno,abcefghijlmno,bijmno,bijmno,bijmno,ijmno,jmn,,bhijmno,bijmno,jn,,jmn,efi,acdefghi,defi,efi,f,,acdefhi,efi,,bcde,d,d,,d,ce,ce,e,ace,
+,Access to contraception,4513,418,367,383,293,225,440,387,260,108,284,274,445,211,246,172,612,1183,987,858,479,393,1796,1845,872,3301,364,169,285,393,831,3228,700,2528,432
+,,0.29,0.41,0.36,0.36,0.26,0.21,0.43,0.35,0.26,0.11,0.28,0.27,0.38,0.2,0.24,0.17,0.24,0.35,0.32,0.32,0.23,0.21,0.3,0.32,0.22,0.34,0.21,0.16,0.18,0.24,0.22,0.33,0.3,0.34,0.22
+,,,bcdeghijkmno,dehijkmno,dehijkmno,eimo,io,bcdeghijklmno,dehijkmno,eimo,,eimo,eimo,dehijkmno,i,imo,i,,adefghi,aefgi,aefi,,,aefi,aefgi,,bcde,cd,,,bcd,,ace,ae,ace,
+,Feeling safer in public spaces,4123,292,447,356,345,281,389,179,281,179,183,469,308,112,165,137,645,976,871,769,499,363,1620,1640,863,2899,344,214,306,361,873,2862,617,2245,366
+,,0.26,0.29,0.44,0.33,0.31,0.27,0.38,0.16,0.28,0.18,0.18,0.46,0.27,0.1,0.16,0.13,0.25,0.28,0.29,0.28,0.24,0.19,0.27,0.28,0.22,0.3,0.2,0.2,0.19,0.22,0.23,0.29,0.27,0.3,0.19
+,,,gijmno,acdefghijlmno,aeghijlmno,egijlmno,gijmno,acdeghijlmno,mo,gijmno,mo,mo,acdefghijlmno,gijmno,,mo,,fi,aefi,aefi,aefi,f,,aefi,aefi,,bcde,,,,,e,ace,ae,ace,
+,Access to leadership positions,3837,305,256,334,322,193,341,394,236,146,197,298,269,166,186,195,510,926,839,757,438,367,1436,1596,805,2882,258,186,235,276,777,2652,533,2118,391
+,,0.24,0.3,0.25,0.31,0.29,0.18,0.33,0.36,0.23,0.14,0.19,0.29,0.23,0.16,0.18,0.19,0.2,0.27,0.28,0.28,0.21,0.2,0.24,0.28,0.2,0.3,0.15,0.17,0.15,0.17,0.2,0.27,0.23,0.28,0.2
+,,,behijlmno,eijmno,behijlmno,behijlmno,i,bdehijlmno,abcdehijklmno,eijmno,,im,behijlmno,eijmno,,i,i,,aefgi,aefgi,aefgi,,,aefi,aefgi,,bcde,,,,,,ace,ae,ace,
+,Don't know,222,9,4,5,13,4,0,8,1,16,26,9,6,54,22,47,38,33,39,36,36,39,71,76,75,73,46,19,40,44,59,117,35,82,36
+,,0.01,0.01,*%,*%,0.01,*%,0,0.01,*%,0.02,0.03,0.01,0.01,0.05,0.02,0.04,0.01,0.01,0.01,0.01,0.02,0.02,0.01,0.01,0.02,0.01,0.03,0.02,0.03,0.03,0.02,0.01,0.02,0.01,0.02
+,,,fh,,f,befh,,,f,,bcefhl,abcdefghkl,fh,f,abcdefghijkln,abcefghkl,abcdefghijkln,,,,,b,bcgh,,,bgh,,a,a,a,a,,,,,bd
+,None of these,379,13,15,15,6,17,1,13,4,25,35,18,43,82,14,79,23,53,58,67,78,99,76,125,177,126,78,14,107,53,88,176,44,132,99
+,,0.02,0.01,0.01,0.01,0.01,0.02,*%,0.01,*%,0.02,0.03,0.02,0.04,0.08,0.01,0.08,0.01,0.02,0.02,0.02,0.04,0.05,0.01,0.02,0.04,0.01,0.05,0.01,0.07,0.03,0.02,0.02,0.02,0.02,0.05
+,,,fh,dfh,dfh,f,dfh,,fh,,dfgh,abcdefghkn,dfh,abcdefghkn,abcdefghijkln,dfh,abcdefghijkln,,a,ag,abg,abcdgh,abcdegh,,abg,abcdgh,,ac,,abce,ac,,,,,abcd
+,"Columns Tested: a,b,c,d,e,f,g,h,i,j,k,l,m,n,o - a,b,c,d,e,f,g,h,i - a,b,c,d,e - a,b,c,d,e",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Prepared by Savanta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
