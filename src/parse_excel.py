@@ -17,14 +17,3 @@ for file in glob.glob('../data/savanta_data/*.xlsx'):
             i += 1
         except:
             sheets_remaining = False
-
-# %%
-df.drop('Unnamed: 0', axis=1, inplace=True)
-
-# %%
-file
-
-# %%
-dfs
-
-
