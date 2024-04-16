@@ -13,16 +13,6 @@ from parsers.output_parsers import simplified_intel_parser, simplified_filt_inte
 from helper_functions.helper_functions import get_quote_edit_distance, get_mp_segments, join_strings, write_to_excel
 #%%
 #-------------load data
-#path to input data folder - pods-parli-intel -> data
-input_data_path = os.path.join(pathlib.Path(__file__).parents[1],'data\\') 
-#path to input data folder - pods-parli-intel -> data
-outputs_path = os.path.join(pathlib.Path(__file__).parents[1],'outputs\\')
-
-
-topic_tags = pd.read_excel(os.path.join(input_data_path,'Tags_and_descriptors.xlsx'))
-speech_data = pd.read_csv(os.path.join(input_data_path,'Speeches_data_one_year.csv'))
-speech_data = speech_data.dropna()
-
 
 #---- prompt 
 prompt = PromptTemplate(
@@ -56,11 +46,20 @@ prompt = PromptTemplate(
 
 ## --------------- set up CFG adn LLM 
 
-inference_modifier = {'max_tokens_to_sample':90000,
-                      "temperature":0.7,
-                      "top_k":50, #previously 250
-                      "top_p":1
-                      }
+def main(
+    speech_data_path,
+    outputs_path,
+    max_tokens_to_sample,
+    temperature,
+    top_k=50,
+    top_p=1
+):
+    inference_modifier = {
+        'max_tokens_to_sample':max_tokens_to_sample,
+        "temperature":temperature,
+        "top_k":top_k, #previously 250
+        "top_p":top_p
+        }
 
 CFG = HandlerCFG(inference_modifier)
 handler = LLMHandler(CFG, #configuration settings
