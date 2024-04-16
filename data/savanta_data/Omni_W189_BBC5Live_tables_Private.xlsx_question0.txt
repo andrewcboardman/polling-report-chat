@@ -1,0 +1,7 @@
+File name: c:\Users\George.Jenkins\OneDrive - Department of Health and Social Care\Documents\code\eh hackathon\polling-report-chat\data\savanta_data\Omni_W189_BBC5Live_tables_Private.xlsx
+Question number: 1
+Question text: "Q1. Anti-social behaviour (ASB) is conduct that causes harassment, alarm or distress to a person. How often, if at all, are you experiencing or witnessing anti-social behaviour in your local area?"
+
+Purpose: The question aims to gauge the frequency of experiencing or witnessing anti-social behavior in respondents' local areas.
+
+Key findings: According to the data, 48% of respondents reported experiencing or witnessing anti-social behavior often or sometimes in their local area. Younger age groups (18-34) and those living in certain regions like the North-West, West Midlands, and London were more likely to report frequent experiences of anti-social behavior. On the other hand, 49% reported rarely or never experiencing such behavior, with older age groups (55+) and those living in regions like Scotland and the South-East being more likely to report infrequent experiences.

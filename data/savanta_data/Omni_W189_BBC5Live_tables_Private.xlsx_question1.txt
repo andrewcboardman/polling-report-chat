@@ -1,0 +1,5 @@
+File Name: c:\Users\George.Jenkins\OneDrive - Department of Health and Social Care\Documents\code\eh hackathon\polling-report-chat\data\savanta_data\Omni_W189_BBC5Live_tables_Private.xlsx
+Question Number: 2
+Question Text: Q2. You mentioned that you have experienced or witnessed anti-social behaviour in your local area. Has this behaviour ever made you feel any of the following?
+
+The purpose of this question is to understand the emotional impact of witnessing or experiencing anti-social behavior in one's local area. The key findings indicate that a significant proportion of respondents felt angry/annoyed (45%), unsafe walking alone (30%), frightened (18%), and unsafe in their homes (12%) due to anti-social behavior. The data also reveals variations in responses based on demographics such as gender, age, region, and social grade, providing insights into the differing experiences and perceptions of anti-social behavior across different segments of the population.

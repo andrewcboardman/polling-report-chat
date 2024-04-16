@@ -1,0 +1,5 @@
+File Name: c:\Users\George.Jenkins\OneDrive - Department of Health and Social Care\Documents\code\eh hackathon\polling-report-chat\data\savanta_data\Omni_W189_BBC5Live_tables_Private.xlsx
+Question Number: 4
+Question Text: Q4. To what extent, if at all, are you confident in the ability of the police to tackle anti-social behaviour in your local area?
+
+The purpose of this question is to gauge the public's confidence in the police's ability to address anti-social behavior in their local areas. The key findings indicate a divided opinion, with 40% expressing confidence (9% very confident, 31% fairly confident) and 52% expressing a lack of confidence (31% not very confident, 21% not at all confident). The data reveals variations across demographics such as gender, age, region, and social grade, suggesting that perceptions of police effectiveness in tackling anti-social behavior may be influenced by these factors.

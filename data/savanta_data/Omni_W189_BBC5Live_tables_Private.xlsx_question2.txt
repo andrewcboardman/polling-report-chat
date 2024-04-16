@@ -1,0 +1,12 @@
+File name: c:\Users\George.Jenkins\OneDrive - Department of Health and Social Care\Documents\code\eh hackathon\polling-report-chat\data\savanta_data\Omni_W189_BBC5Live_tables_Private.xlsx
+Question number: 3
+Question text: "Q3. To what extent, if at all, has anti-social behaviour in your local area had a negative impact on your mental health?"
+
+The purpose of this question is to gauge the extent to which anti-social behavior in respondents' local areas has negatively impacted their mental health.
+
+Key findings:
+- 7% of respondents reported a significant negative impact on their mental health due to anti-social behavior in their local area.
+- 25% reported some negative impact on their mental health.
+- 32% reported either a significant or some negative impact on their mental health.
+- 62% reported not much or no negative impact on their mental health.
+- Younger age groups (18-34) and those living in certain regions like London and the West Midlands were more likely to report a significant or some negative impact on their mental health.
