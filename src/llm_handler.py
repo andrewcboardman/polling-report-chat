@@ -23,7 +23,7 @@ class LLMHandler:
         client = boto3.client(service_name='bedrock-runtime', 
                        region_name=os.getenv('AWS_DEFAULT_REGION'))
         
-        self.llm = Bedrock(model_id = "claude-3-sonnet",
+        self.llm = Bedrock(model_id = "anthropic.claude-3-sonnet-20240229-v1:0",
               client = client,
              )
         self.problem_cases = {}
