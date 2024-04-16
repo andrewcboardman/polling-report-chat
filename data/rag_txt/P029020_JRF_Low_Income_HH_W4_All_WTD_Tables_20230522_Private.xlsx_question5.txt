@@ -1,0 +1,14 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 5
+
+Question text: "Q5. How many members, including yourself, are permanently living in your household? And how many of these members are adults (aged 18+)? And how many, if any, are children aged 0-13, 14-17?"
+
+Purpose: This question aims to gather information about the household composition, specifically the total number of members, adults, and children of different age groups residing in the household.
+
+Key findings:
+- The average household size for the total sample is 2.54 members.
+- On average, there are 1.93 adults (aged 18+) per household.
+- The average number of children aged 0-13 is 0.45 per household.
+- The average number of children aged 14-17 is 0.16 per household.
+- Households with children tend to have a larger household size, with an average of 3.76 members for households with at least one child.
+- Single adult households have an average of 1 member, while households with 3+ adults (no children) have an average of 3.54 members.

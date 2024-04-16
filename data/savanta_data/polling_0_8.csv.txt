@@ -1,0 +1,5 @@
+Poll name: Homeless and Police PR - W184
+Table number: Table 9
+Question: Q3. Summary Good job: To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
+
+Summary of data: The CSV file contains data from a poll conducted in the UK, asking respondents to rate the performance of the police on various aspects. The rows show different policing tasks like policing major events, investigating crimes, policing protests, acting as a deterrent, and having a visible presence. The columns break down the responses by demographics such as gender, age, region, and political affiliation.

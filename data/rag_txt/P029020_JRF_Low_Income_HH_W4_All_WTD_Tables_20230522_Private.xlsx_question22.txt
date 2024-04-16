@@ -1,0 +1,12 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 40
+
+Q40. Given the recent rises in mortgage interest rates, we are interested to know how this may affect your mortgage and repayments. Please select the option that best aligns with the type of mortgage you are currently on:
+
+Purpose of the question: This question aims to understand how the recent increases in mortgage interest rates may impact the mortgage repayments of households, based on the type of mortgage they currently have.
+
+Key findings:
+- 29% of respondents indicated that their fixed rate will come to an end from 2024 onwards, potentially exposing them to higher interest rates in the future.
+- 16% stated that their fixed rate will come to an end before the middle of the year (July 1, 2023), suggesting they may face increased mortgage costs in the near future.
+- 15% reported that their fixed rate came to an end in the last six months, implying they may have already experienced an increase in mortgage payments.
+- 14% are currently on a standard variable rate (SVR), which means their mortgage payments could fluctuate based on changes in interest rates.

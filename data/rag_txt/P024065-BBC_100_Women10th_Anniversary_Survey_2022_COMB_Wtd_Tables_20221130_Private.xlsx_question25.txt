@@ -1,0 +1,5 @@
+File name: P024065-BBC_100_Women10th_Anniversary_Survey_2022_COMB_Wtd_Tables_20221130_Private.xlsx
+Question number: 10_5
+Question text: "With the police: Compared with 10 years ago (i.e. 2012), do you think women in your country feel more or less comfortable discussing a gender-based crime (e.g. domestic abuse, forced marriage, female genital mutilation) with each of the following?"
+
+The purpose of this question is to gauge whether women feel more or less comfortable discussing gender-based crimes with the police compared to 10 years ago. The key findings show that overall, 51% of respondents feel more comfortable discussing such crimes with the police, while 20% feel less comfortable. There are variations across countries, with higher proportions feeling more comfortable in countries like Brazil (60%), China (70%), and Kenya (64%), while lower proportions feel more comfortable in countries like Pakistan (28%), Russia (26%), and Saudi Arabia (62% feel about the same).

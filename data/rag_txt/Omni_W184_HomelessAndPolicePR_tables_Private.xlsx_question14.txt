@@ -1,0 +1,9 @@
+File name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
+Question number: 15
+Question text: Q3_5. Investigating major crimes : To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
+
+The purpose of this question is to gauge the public's perception of how well the police in the UK perform in investigating major crimes. The key findings from the data are:
+
+- 60% of respondents believe the police do a good job (15% very good job, 46% fairly good job) in investigating major crimes.
+- 30% think the police do a bad job (19% fairly bad job, 11% very bad job) in investigating major crimes.
+- There are variations across different demographic groups, with older respondents (aged 55+) and those in Scotland and Northern Ireland being more positive about the police's performance in this area.

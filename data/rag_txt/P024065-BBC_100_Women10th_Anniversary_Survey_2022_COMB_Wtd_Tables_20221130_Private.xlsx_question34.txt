@@ -1,0 +1,9 @@
+File name: P024065-BBC_100_Women10th_Anniversary_Survey_2022_COMB_Wtd_Tables_20221130_Private.xlsx
+Question 34
+
+Purpose: This question aims to understand the current (2022) and past (2012) relationship status of women across different countries.
+
+Key Findings:
+- In 2022, the majority of women surveyed were either married/in a civil partnership (47%) or single (25%). Smaller proportions were living as a couple/co-habiting (15%), separated/divorced/widowed (12%), or preferred not to say (1%).
+- Compared to 2012, there appears to be a shift towards more women being single or living as a couple/co-habiting, and fewer being married/in a civil partnership.
+- Relationship status varied significantly across countries, with higher rates of marriage in countries like Turkey, Egypt, and Indonesia, and higher rates of singlehood in countries like Kenya, Nigeria, and the USA.

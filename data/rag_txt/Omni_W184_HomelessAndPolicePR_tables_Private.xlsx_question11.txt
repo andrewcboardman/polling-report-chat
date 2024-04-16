@@ -1,0 +1,5 @@
+File Name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
+Question Number: 12
+Question Text: Q3_2. Acting as a deterrent for criminal activity : To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
+
+The purpose of this question is to gauge the public's perception of how effective the police in the UK are at deterring criminal activity. The key findings from the data show that 40% of respondents believe the police do a good job (9% very good job, 31% fairly good job), while 51% believe they do a bad job (34% fairly bad job, 18% very bad job). There are variations across different demographic groups, with older respondents and those from certain regions being more critical of the police's performance in this area.

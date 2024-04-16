@@ -1,0 +1,7 @@
+File Name: P024065-BBC_100_Women10th_Anniversary_Survey_2022_COMB_Wtd_Tables_20221130_Private.xlsx
+Question Number: 28
+Question Text: Q10 (Summary - Net Less comfortable) - Compared with 10 years ago (i.e. 2012), do you think women in your country feel more or less comfortable discussing a gender-based crime (e.g. domestic abuse, forced marriage, female genital mutilation) with each of the following?
+
+Purpose: This question aims to assess whether women across different countries feel less comfortable discussing gender-based crimes with various individuals or entities compared to 10 years ago.
+
+Key Findings: The data reveals that a significant proportion of women feel less comfortable discussing gender-based crimes with the police (20%), anonymously on social media (14%), with family members (12%), with partners (10%), and with friends (9%). The level of discomfort varies across countries, age groups, employment status, and relationship status, indicating the complex nature of this issue and the need for continued efforts to create a supportive environment for addressing gender-based violence.

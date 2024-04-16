@@ -1,0 +1,7 @@
+File name: P024065-BBC_100_Women10th_Anniversary_Survey_2022_COMB_Wtd_Tables_20221130_Private.xlsx
+Question number: 11
+Question text: "Q11. If you were the victim of a gender-based crime (e.g. domestic abuse, rape, forced marriage, female genital mutilation), how likely or unlikely would you be to report the crime to the police in your country?"
+
+Purpose: This question aims to gauge the willingness of women across different countries to report gender-based crimes to the police authorities.
+
+Key findings: The data reveals that overall, a majority (50.3%) of respondents said they were "very likely" to report a gender-based crime to the police, while 29.8% said they were "quite likely" to do so. However, there were significant variations across countries, with respondents from Pakistan (17%), Saudi Arabia (52%), and Nigeria (49%) being the least likely to report such crimes. In contrast, respondents from Brazil (78%), China (46%), and Turkey (49%) were among the most likely to report gender-based crimes to the police.

@@ -1,0 +1,5 @@
+File name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
+Question number: 16
+Question text: Q3_6. Investigating minor crimes : To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
+
+The purpose of this question is to gauge public perception of how well the police in the UK handle investigating minor crimes. The key findings from the data show that opinions are divided, with 33% saying the police do a good job (8% very good, 25% fairly good), while 59% believe they do a bad job (31% fairly bad, 28% very bad). There are notable differences across age groups, regions, and political affiliations, suggesting varying levels of satisfaction with police performance in this area.

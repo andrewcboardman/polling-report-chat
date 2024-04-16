@@ -1,0 +1,6 @@
+Poll Name: Transport Podcast
+Table Number: 17
+Question: QTPW177Q5_2. The introduction of a default 20 mph speed limit on roads in Wales: Thinking about each of the following, how would it impact your attitude towards the party that you felt was responsible?
+
+Data Summary:
+The data presents the responses from 2,100 respondents across various demographics (gender, age, region, social grade, past voting behavior, and EU referendum vote) to a question about how the introduction of a 20 mph speed limit on Welsh roads would impact their attitude towards the responsible party. The options ranged from "Would stop me voting for the party" to "I'd still vote for the party, and would feel more positively towards them," with additional options like "Don't know." The data shows the breakdown of responses for each demographic group.

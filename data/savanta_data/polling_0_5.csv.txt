@@ -1,0 +1,5 @@
+Poll Name: Homeless and Police PR - W184
+Table Number: Table 6
+Question: Q1_3. In the UK generally: To what extent would you say that homelessness is, or is not, a problem in each of the following areas?
+
+Summary of Data: The data shows responses from 2,235 respondents across different demographic groups in the UK, regarding their perception of homelessness as a problem in various areas. Overall, 44% considered homelessness a big problem, 40% viewed it as somewhat a problem, while 12% did not consider it much of a problem or not a problem at all. The data is broken down by factors such as gender, age group, region, political affiliation, and voting preferences, allowing for analysis of variations in perception across different segments of the population.

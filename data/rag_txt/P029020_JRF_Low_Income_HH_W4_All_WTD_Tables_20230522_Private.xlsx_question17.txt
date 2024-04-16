@@ -1,0 +1,18 @@
+Here are the key details for Question 6 from the file P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx:
+
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 6
+Question text: Q6. Which of the following kinds of income/ earnings (not including benefits) do you or any other member in your household receive?
+
+Purpose: This question aims to understand the different sources of income and earnings (excluding benefits) that low-income households receive.
+
+Key findings:
+- 41% of respondents reported receiving earnings from employment or self-employment, making it the most common source of income/earnings.
+- 30% received income from a pension (excluding the State pension).
+- 22% received interest from savings or investments.
+- 8% received child maintenance.
+- 5% received rental income from property or renting a room.
+- 4% received other regular allowances from outside the household.
+- 3% reported having other sources of income/earnings not listed.
+
+The data provides a breakdown of these income sources across various demographic groups, allowing for analysis of how different types of households rely on different income streams.

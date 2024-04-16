@@ -1,0 +1,11 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 28
+Question text: "Q9a_2. Personal loan from a payday lender: For each of the following types of debt, please tell us whether it was a new debt for your household in the last six months (since November 2022) or if you already had it before November 2022, and if it has changed in size?"
+
+Purpose: The question aims to understand the prevalence and changes in payday loan debt among low-income households over the past six months.
+
+Key findings:
+- 4.4% of respondents reported having a new payday loan debt in the last six months (since November 2022).
+- 5.6% of respondents had an existing payday loan debt before November 2022, and the size of the debt increased since then.
+- 4.6% of respondents had an existing payday loan debt before November 2022, but the size of the debt did not increase (stayed the same or decreased) since then.
+- The majority (83.3%) of respondents did not have any payday loan debt.

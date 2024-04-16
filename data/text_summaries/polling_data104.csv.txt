@@ -1,4 +1,0 @@
-Poll Name: BBC 100 Women 10th Anniversary Survey 2022
-Table Number: Table 23
-Question: Q10_3. With a partner: Compared with 10 years ago (i.e. 2012), do you think women in your country feel more or less comfortable discussing a gender-based crime (e.g. domestic abuse, forced marriage, female genital mutilation) with each of the following?
-Summary: The data shows the responses from 15,723 respondents across 17 countries to a question about whether women feel more or less comfortable discussing gender-based crimes compared to 10 years ago. The responses are broken down by country, age group, working status, relationship status, and other demographics. It provides the percentages for options like "Much more comfortable," "Slightly more comfortable," "About the same," "Slightly less comfortable," and "Much less comfortable."

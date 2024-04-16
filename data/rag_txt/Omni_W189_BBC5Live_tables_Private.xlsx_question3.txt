@@ -1,0 +1,9 @@
+File name: Omni_W189_BBC5Live_tables_Private.xlsx
+Question number: 4
+Question text: Q4. To what extent, if at all, are you confident in the ability of the police to tackle anti-social behaviour in your local area?
+
+The purpose of this question is to gauge the public's level of confidence in the police's ability to address anti-social behaviour in their local areas. The key findings from the data are:
+
+- 40% of respondents expressed some level of confidence (9% very confident, 31% fairly confident) in the police's ability to tackle anti-social behaviour.
+- 52% expressed a lack of confidence (31% not very confident, 21% not at all confident) in the police's ability to address this issue.
+- Confidence levels varied across different demographic groups, with younger age groups (18-34) and those in London and the South-East regions expressing higher levels of confidence compared to older age groups and other regions.

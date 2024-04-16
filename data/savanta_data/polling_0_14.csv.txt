@@ -1,0 +1,6 @@
+Poll Name: Homeless and Police PR - W184
+Table Number: Table 15
+Question: Q3_5. Investigating major crimes: To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
+
+Summary:
+The data presents the responses from 2,235 respondents to a survey question about the perception of how well the police in the UK handle investigating major crimes. The results are broken down by demographics such as gender, age group, region, and voting preference. Overall, 60% of respondents felt the police did a good job (15% "very good job" and 46% "fairly good job"), while 30% felt they did a bad job (19% "fairly bad job" and 11% "very bad job"). The remaining 9% responded "don't know".

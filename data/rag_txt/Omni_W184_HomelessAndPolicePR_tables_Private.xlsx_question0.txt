@@ -1,0 +1,8 @@
+File name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
+Question number: 1 
+
+"Q1. Summary: To what extent would you say that homelessness is, or is not, a problem in each of the following areas?"
+
+Purpose: This question aims to gauge the public's perception of the extent of homelessness as a problem in different geographical areas within the UK.
+
+Key findings: The data reveals that a significant majority (86%) consider homelessness to be a problem in the UK's big cities, with 54% viewing it as a big problem. Regarding the UK generally, 84% perceive homelessness as a problem, with 44% considering it a big problem. However, when it comes to their own neighborhoods, only 40% view homelessness as a problem, with 12% considering it a big problem. This suggests that while homelessness is widely recognized as a national issue, particularly in major cities, it is perceived as less prevalent at the local level.

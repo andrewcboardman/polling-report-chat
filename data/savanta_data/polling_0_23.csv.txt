@@ -1,0 +1,4 @@
+Poll Name: Homeless and Police PR - W184
+Table Number: Table 24
+Question: Q5_4. Anti-lockdown protests : To what extent do you think that the police handle each of the following types protests / demonstrations well or badly?
+Summary: The data presents the responses from 2,235 respondents across various demographics, including gender, age, region, and political affiliation, on their perception of how well the police handle anti-lockdown protests. The responses range from "Very well" to "Very badly," with options for "Fairly well," "Fairly badly," and "Don't know." The data provides a breakdown of the responses by different demographic groups, allowing for analysis of potential differences in opinions.

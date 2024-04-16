@@ -1,0 +1,14 @@
+File Name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question Number: 24b.4
+Question Text: You mentioned that there are other adults in your household. Which of the following best describes the fourth other adult's current working status?
+
+Purpose of the Question: The purpose of this question is to understand the working status of the fourth additional adult member in households with more than one adult.
+
+Key Findings:
+- The most common working status for the fourth additional adult was "Student" at 21%.
+- 10% reported the fourth adult as "Not working and not seeking work."
+- 8% said the fourth adult was "Working for an employer full time - working 30 hours per week or more."
+- 6% indicated the fourth adult was "Self-employed full time - working 30 hours per week or more."
+- Smaller proportions reported other working statuses like part-time work, unemployment, retirement, or being a house-wife/husband.
+
+The data provides insights into the employment situation of additional adult members within low-income households, which can be useful for understanding their economic circumstances and potential financial challenges.

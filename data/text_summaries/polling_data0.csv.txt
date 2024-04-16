@@ -1,7 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-
-Table Number: Table 1
-
-Question: Q1. Summary: To what extent would you say that homelessness is, or is not, a problem in each of the following areas?
-
-The data presents the responses from 2235 respondents in the UK about the extent of the homelessness problem in different areas. The areas covered are the UK's big cities, the UK generally, and the respondent's neighborhood. The responses are categorized as "Is a big problem," "Is somewhat a problem," "Isn't much of a problem," "Isn't a problem at all," and "Don't know." The data shows the number of respondents and the corresponding percentages for each response category across the three areas.

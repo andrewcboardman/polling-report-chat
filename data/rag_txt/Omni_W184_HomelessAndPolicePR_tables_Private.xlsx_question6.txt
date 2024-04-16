@@ -1,0 +1,7 @@
+File name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
+Question number: 2
+Question text: Q2. Which of the following is closest to your view?
+
+Purpose of the question: This question aims to gauge the public's perception of homelessness, specifically whether they view it as a lifestyle choice or not.
+
+Key findings: According to the data, the majority of respondents (75%) believe that homelessness is not a lifestyle choice, while 16% consider it a lifestyle choice. The remaining 9% responded with "Don't know." The belief that homelessness is not a lifestyle choice is consistent across various demographic groups, including gender, age, region, and political affiliation. However, there are some notable variations, with higher proportions of respondents from certain groups, such as Conservative voters (20%) and those aged 18-24 (19%), considering homelessness a lifestyle choice compared to the overall average.

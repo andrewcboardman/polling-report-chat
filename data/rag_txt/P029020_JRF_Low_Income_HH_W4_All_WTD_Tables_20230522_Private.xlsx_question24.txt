@@ -1,0 +1,10 @@
+Purpose: This question asks respondents to provide their best estimate of their total monthly housing costs, including rental costs and/or mortgage payments (principal and interest), but excluding utility bills.
+
+Key Findings:
+- The mean monthly housing cost reported across all respondents was £601.63.
+- Around 18% of respondents reported housing costs between £301-£500 per month.
+- Around 13% reported costs between £501-£700 per month.
+- Approximately 12% reported costs above £1,000 per month.
+- There were some variations in reported housing costs based on factors like income level, tenure type, and region.
+
+The data is from the file "P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx".

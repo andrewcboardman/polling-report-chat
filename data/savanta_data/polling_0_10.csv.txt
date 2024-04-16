@@ -1,0 +1,5 @@
+Poll Name: Homeless and Police PR - W184
+Table Number: Table 11
+Question: Q3_1. Having a visible presence in your area: To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
+
+Summary of Data: The CSV file contains responses from 2,235 respondents on their perception of the police's performance in having a visible presence in their area. Around 36% of respondents believe the police are doing a good job (8% very good, 27% fairly good), while 59% believe they are doing a bad job (33% fairly bad, 26% very bad). The data is further broken down by demographics such as gender, age, region, and political affiliation.

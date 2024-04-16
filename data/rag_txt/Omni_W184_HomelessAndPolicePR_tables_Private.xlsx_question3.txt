@@ -1,0 +1,5 @@
+File name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
+Question number: 4
+Question text: Q1_1. In your neighbourhood: To what extent would you say that homelessness is, or is not, a problem in each of the following areas?
+
+The purpose of this question is to gauge the public's perception of homelessness as a problem in their local neighbourhoods across the UK. The key findings indicate that while a significant proportion (40%) considers homelessness a problem (12% a big problem, 28% somewhat a problem) in their neighbourhood, a majority (56%) does not view it as much of a problem or not a problem at all (35% not much of a problem, 21% not a problem at all). The responses vary across different demographic groups, with younger age groups and certain regions perceiving homelessness as more of a problem in their neighbourhoods compared to older age groups and other regions.

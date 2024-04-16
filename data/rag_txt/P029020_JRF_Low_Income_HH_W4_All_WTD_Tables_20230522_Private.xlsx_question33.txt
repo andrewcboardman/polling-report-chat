@@ -1,0 +1,13 @@
+File Name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question Number: 9a_8
+
+Question Text: "Benefit or tax credit overpayments (eg. repaying child tax credit, working tax credit, Universal Credit or housing overpayments): For each of the following types of debt, please tell us whether it was a new debt for your household in the last six months (since November 2022) or if you already had it before November 2022, and if it has changed in size?"
+
+Purpose: This question aims to understand if households have incurred new debt related to benefit or tax credit overpayments in the last six months, or if they had existing debt of this type and whether the size of the debt has increased or remained the same.
+
+Key Findings:
+- 8% of respondents reported this as a new debt in the last six months.
+- 10% had this debt before November 2022, and the size of the debt has increased since then.
+- 9% had this debt before November 2022, but the size has not increased (stayed the same or decreased).
+- 71% of respondents did not have this type of debt.
+- 3% responded "Don't know" to this question.

@@ -1,0 +1,14 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 20
+
+Q8. NET: What is your total monthly household income from all these sources (including types of income/earnings and benefits), after tax and deductions?
+
+Purpose: This question aims to determine the total monthly household income of the respondents, including all sources of income and earnings, as well as benefits received, after taxes and deductions.
+
+Key findings:
+- The mean total monthly household income across all respondents is £1,625.67.
+- The income distribution shows a significant portion (around 20%) of households earning between £1,000 and £1,249 per month, followed by those earning between £2,000 and £2,249 (around 21%).
+- Households with higher income levels tend to have more adults, be mortgage holders, and reside in certain regions like the South East and London.
+- Lower income households are more likely to receive benefits, be renters, and have fewer adults or more children in the household.
+
+The key findings provide insights into the income distribution and characteristics of low-income households, which can inform policies and programs aimed at addressing financial challenges faced by these households.

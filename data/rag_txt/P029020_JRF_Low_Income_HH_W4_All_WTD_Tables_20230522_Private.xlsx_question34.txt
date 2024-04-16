@@ -1,0 +1,11 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 9a_9
+Question text: "Personal loan from an unlicensed lender (i.e. a lender providing short term loans at a high cost - sometimes known as a loan shark). This excludes loans from lenders such as banks, authorised doorstep lenders or payday lenders.: For each of the following types of debt, please tell us whether it was a new debt for your household in the last six months (since November 2022) or if you already had it before November 2022, and if it has changed in size?"
+
+Purpose: This question aims to understand the prevalence and changes in debt from unlicensed lenders (often referred to as loan sharks) among low-income households in the last six months.
+
+Key findings:
+- 4% of respondents reported having a new debt from an unlicensed lender in the last six months.
+- 5% of respondents reported having an existing debt from an unlicensed lender, with the size of the debt increasing since November 2022.
+- 5% of respondents reported having an existing debt from an unlicensed lender, with the size of the debt remaining the same or decreasing since November 2022.
+- 84% of respondents reported not having any debt from an unlicensed lender.

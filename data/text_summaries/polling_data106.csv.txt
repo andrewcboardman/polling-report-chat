@@ -1,5 +1,0 @@
-Poll Name: BBC 100 Women 10th Anniversary Survey 2022
-Table Number: Table 25
-Question: Q10_5. With the police: Compared with 10 years ago (i.e. 2012), do you think women in your country feel more or less comfortable discussing a gender-based crime (e.g. domestic abuse, forced marriage, female genital mutilation) with each of the following?
-
-Summary of Data: The data presents the responses from 15,723 respondents across 17 countries regarding women's perceived comfort level in discussing gender-based crimes with the police compared to 10 years ago. The responses are categorized into 'Much more comfortable', 'Slightly more comfortable', 'About the same', 'Slightly less comfortable', 'Much less comfortable', and 'Don't know'. The data also provides a breakdown of responses by country, age group, employment status, relationship status, and other demographic variables.

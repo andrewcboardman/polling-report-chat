@@ -1,0 +1,13 @@
+The file name is P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx, and the question number is 21.
+
+The question text is:
+"Q8b. EQUIVALIZED: What is your total monthly household income from all these sources (including types of income/earnings and benefits), after tax and deductions?"
+
+The purpose of this question is to determine the total monthly household income, adjusted for household size and composition, from all sources including earnings and benefits, after taxes and deductions.
+
+Key findings:
+- The mean equivalized monthly household income for the overall sample is £1,438.
+- The lowest income quintile has a mean equivalized income of £611, while the highest quintile has no respondents.
+- Recipients of Universal Credit and other benefits have lower mean equivalized incomes compared to non-recipients.
+- Households with disabled members, single adults, and those with children tend to have lower mean equivalized incomes.
+- Mean equivalized incomes vary across regions, with London and the South East being higher than other regions.

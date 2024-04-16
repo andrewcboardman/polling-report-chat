@@ -1,0 +1,6 @@
+File name: Omni_W189_BBC5Live_tables_Private.xlsx
+Question 1: Q1. Anti-social behaviour (ASB) is conduct that causes harassment, alarm or distress to a person. How often, if at all, are you experiencing or witnessing anti-social behaviour in your local area?
+
+Purpose: This question aims to gauge the frequency of experiencing or witnessing anti-social behavior in respondents' local areas.
+
+Key findings: The data shows that 48% of respondents reported often or sometimes experiencing or witnessing anti-social behavior in their local area. Specifically, 15% said "often," and 33% said "sometimes." On the other hand, 49% reported rarely or never experiencing such behavior, with 35% saying "rarely" and 14% saying "never." The frequency varied across different demographic groups, with younger age groups (18-34) and certain regions like the North-West and West Midlands reporting higher levels of anti-social behavior.

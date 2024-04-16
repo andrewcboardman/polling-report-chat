@@ -1,0 +1,17 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 24
+Question text: Q24. Which of the following best describes your current working status?
+
+Purpose of the question: This question aims to understand the employment status of the respondents, categorizing them into various working situations such as full-time employment, self-employment, part-time work, unemployment, retirement, or other non-working conditions.
+
+Key findings:
+- 31% of respondents were working for an employer full-time (30 hours or more per week).
+- 4% were self-employed and working full-time (30 hours or more per week).
+- 13% were working for an employer part-time (up to 29 hours per week).
+- 3% were self-employed and working part-time (up to 29 hours per week).
+- 4% were not working but seeking work or temporarily unemployed/sick.
+- 3% were students.
+- 28% were retired.
+- 5% identified as house-wives/house-husbands (looking after the home).
+- 5% were permanently sick or disabled.
+- Less than 1% were temporarily sick with no job to go to, engaged in agency work or temporary contracts, zero-hours contracts, or other activities like voluntary work.

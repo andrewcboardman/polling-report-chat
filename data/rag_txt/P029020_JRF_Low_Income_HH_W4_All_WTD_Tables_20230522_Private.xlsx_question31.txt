@@ -1,0 +1,12 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 9a_6
+
+Question text: "Q9a_6. Money borrowed from family or friends: For each of the following types of debt, please tell us whether it was a new debt for your household in the last six months (since November 2022) or if you already had it before November 2022, and if it has changed in size?"
+
+Purpose: This question aims to understand if households have incurred new debt from borrowing money from family or friends in the last six months (since November 2022), or if they had existing debt of this type before November 2022, and whether the size of the existing debt has increased or not.
+
+Key findings:
+- 11% of respondents reported that borrowing money from family or friends was a new debt for their household in the last six months.
+- 7% had this debt before November 2022, and the size of the debt has increased since then.
+- 7% had this debt before November 2022, but the size has not increased (stayed the same or decreased).
+- 73% do not hold this type of debt.

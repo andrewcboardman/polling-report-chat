@@ -1,0 +1,10 @@
+File name: P024065-BBC_100_Women10th_Anniversary_Survey_2022_COMB_Wtd_Tables_20221130_Private.xlsx
+Question 35: RELATIONSHIP_STATUS_2. 10 years ago (i.e. 2012): Which of the following best describes your relationship status...
+
+The purpose of this question is to understand the respondents' relationship status 10 years ago in 2012, providing insight into how their personal relationships may have changed over the past decade.
+
+Key findings:
+- The largest proportion (40%) were married/in a civil partnership in 2012.
+- A significant portion (35%) were single in 2012.
+- 13% were living as a couple/cohabiting in 2012.
+- Smaller percentages were separated (2%), divorced (5%), or widowed (3%) in 2012.

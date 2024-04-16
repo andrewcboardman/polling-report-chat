@@ -1,0 +1,13 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: Q9a_7
+
+Question text: "Universal credit advance payment: For each of the following types of debt, please tell us whether it was a new debt for your household in the last six months (since November 2022) or if you already had it before November 2022, and if it has changed in size?"
+
+Purpose: This question aims to understand if households have taken on new Universal Credit advance payment debt or if they had existing debt of this type, and whether the size of the debt has changed in the last six months.
+
+Key findings:
+- 14% of respondents reported having a new Universal Credit advance payment debt in the last six months since November 2022.
+- 11% had this debt before November 2022, and the size of the debt increased since then.
+- 13% had this debt before November 2022, but the size did not increase (stayed the same or decreased).
+- 58% did not hold this type of debt.
+- 4% responded "Don't know".

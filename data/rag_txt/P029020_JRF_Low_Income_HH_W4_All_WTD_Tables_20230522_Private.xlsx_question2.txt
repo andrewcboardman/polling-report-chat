@@ -1,0 +1,12 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 3
+Question text: Q3. Where do you live?
+
+Purpose: This question aims to gather information about the geographical location of the respondents, specifically which region or country within the UK they reside in.
+
+Key findings:
+- The respondents are spread across different regions of the UK, with the highest representation from the South East (13%), North West (12%), and London (10%).
+- Scotland, Wales, and Northern Ireland account for 8%, 5%, and 2% of the respondents, respectively.
+- Other regions like the North East, Yorkshire and the Humber, East Midlands, West Midlands, and Eastern England each have around 9% representation.
+- The South West accounts for 9% of the respondents.
+- A small percentage (less than 1%) of respondents reside outside the UK or in the Channel Islands.

@@ -1,0 +1,5 @@
+File name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
+Question number: 19
+Question text: Q5. Summary Well: To what extent do you think that the police handle each of the following types protests / demonstrations well or badly?
+
+The purpose of this question is to gauge the public's perception of how well the police handle different types of protests and demonstrations in the UK. The key findings from the data show that the protests perceived as being handled well by the police are anti-Brexit protests (46% saying well) and anti-lockdown protests (45% saying well). On the other hand, pro-Palestine protests (41% saying well) and environmental protests like Just Stop Oil and Extinction Rebellion (39% saying well) are seen as being handled relatively poorly by the police according to the respondents.

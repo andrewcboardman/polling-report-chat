@@ -1,0 +1,9 @@
+The question is from the file "P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx" and it is Question 24b.6.
+
+The purpose of this question is to understand the working status of the sixth other adult in the household, if there are more than one adult in the household.
+
+Key findings:
+- Among the low-income households surveyed, only a small proportion (0.24%) reported having a sixth adult in the household.
+- The majority of these sixth adults were either students (0.52%) or working full-time for an employer (0.24%).
+- A small percentage were self-employed full-time (0.24%).
+- None of the sixth adults were reported to be working part-time, seeking work, retired, or in other employment categories like zero-hour contracts or agency work.

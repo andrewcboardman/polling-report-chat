@@ -1,0 +1,10 @@
+File name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
+Question number: 23
+Question text: Q5_3. Black Lives Matter protests : To what extent do you think that the police handle each of the following types protests / demonstrations well or badly?
+
+The purpose of this question is to gauge public opinion on how well or poorly the police handle Black Lives Matter protests in the UK. The key findings from the data are:
+
+- 43% of respondents believe the police handle Black Lives Matter protests well (11% very well, 32% fairly well).
+- 41% believe the police handle them badly (24% fairly badly, 18% very badly).
+- There is a divide in opinion, with similar proportions viewing the police's handling positively and negatively.
+- Younger age groups (18-34) and those in London are more likely to view the police's handling negatively, while older age groups (55+) and Conservative voters tend to view it more positively.

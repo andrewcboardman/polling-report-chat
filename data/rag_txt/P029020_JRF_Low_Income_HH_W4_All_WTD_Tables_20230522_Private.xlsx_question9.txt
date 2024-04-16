@@ -1,0 +1,7 @@
+File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
+Question number: 5_4
+Question text: Q5_4. Total children aged: 14-17: How many members, including yourself, are permanently living in your household? And how many of these members are adults (aged 18+)? And how many, if any, are children aged 0-13, 14-17?
+
+Purpose: This question aims to determine the number of children aged 14-17 living in the respondent's household.
+
+Key findings: According to the data, the majority (86%) of respondents did not have any children aged 14-17 living in their household. Around 11% reported having one child in this age group, while only a small percentage (2-3%) had two or more children aged 14-17 residing with them.
