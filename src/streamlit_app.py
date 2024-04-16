@@ -64,7 +64,7 @@ def rag_search_tab():
             {
                 'Search topic': search_topic,
                 'Number of polls searched': len(st.session_state['summaries']),
-                'Number of results': len(results)
+                # 'Number of results': len(results)
             }
         )
         
@@ -83,10 +83,11 @@ def poll_query_tab():
 
 def main():
     st.title('PollDancer')
-    # st.image(
-    #     './images/DALL·E 2024-04-16 17.40.19 - A logo design inverted.png',
-    # )
     st.subheader('Graceful shortcut to finding polling answers across government')
+    with st.sidebar:
+        st.image(
+        './images/logo_inverted.png',
+        )
     if 'previous_searches' not in st.session_state.keys():
         st.session_state['previous_searches'] = []
     if 'previous_results' not in st.session_state.keys():
