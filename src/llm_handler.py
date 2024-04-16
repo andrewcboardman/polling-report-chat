@@ -8,9 +8,9 @@ from langchain.llms.bedrock import Bedrock
 import pandas as pd
 #local
 from langchain.prompts import PromptTemplate
-
+from langchain_community.chat_models import BedrockChat
 # from langchain_anthropic import ChatAnthropic
-
+from pathlib import Path
 class LLMHandler:
     """LLM handler class - set up client 
     """
@@ -23,7 +23,7 @@ class LLMHandler:
         client = boto3.client(service_name='bedrock-runtime', 
                        region_name=os.getenv('AWS_DEFAULT_REGION'))
         
-        self.llm = Bedrock(model_id = "anthropic.claude-3-sonnet-20240229-v1:0",
+        self.llm = BedrockChat(model_id = "anthropic.claude-3-sonnet-20240229-v1:0",
               client = client,
              )
         self.problem_cases = {}
@@ -52,31 +52,27 @@ class LLMHandler:
 #---- prompt 
 prompt = PromptTemplate(
     template = """
-    \n\nHuman: As an experienced data analyst for a political organization your task is to analyze a speech and produce strategic summaries. 
-    ### Context You have been provided speech data and format guidelines to structure your analysis. 
-    ### Instructions from the speech data: 
-    1. Write a concise sentence summary 
-    2. Provide a relevant one to two sentence quotation 
-    3. Indicate whether the speech is relevant to healthcare or social care issues by labeling it as 'True' if so, or 'False' if not. 
-    4. Apply any suitable tags from the list of approved topic tags if the speech content matches the tag description. If none of the tags apply or you are unsure, use "Other".  
-    
-    Organize your responses according to the format instructions.
-    Make sure the quotation you return is at least one complete sentence long .
-    Ensure you only use tags present in the list of approved topic tags. 
-    do you understand these instructions?
-    \n\nAssistant:  Yes, I understand the instructions. As an analyst, my task is to analyze speech data and provide strategic summaries following the specified format guidelines.
-    \n\nnHuman:  Here are the speech details
-    ### Speech Data 
-    ### List of approved tags with topic descriptions  
+    \n\nHuman: You are a super helpful robot that does exactly as told. 
+    Outline the purpose of this poll and briefly describe the data. 
+    Include where the poll came from, the question number, and a description of the CSV file.
+    Do not exceed more than 200 words.
+    write the poll name, the table number, the question and a summary of the data
     {data}
-    Do not repeat instructions back to me, just complete the task and return a response compatible  with the format instructions and nothing else.
+    Do not repeat instructions back to me, just complete the task.
      \n\nAssistant:""",
-    input_variables=["topic_tags","speech_table"])
+    input_variables=["data"])
 
 
 ## --------------- set up CFG adn LLM 
 
-handler = LLMHandler(env_path = '.env')
 
-response = handler.get_data(prompt=prompt,
-                            data = 'some data')
+base_dir = Path(os.getcwd()).parents[0]
+data_dir = base_dir /'data'
+example_data_path = data_dir / 'savanta_data'
+poll_files = [x for x in os.listdir(example_data_path) if '.csv' in x]
+#%%
+handler = LLMHandler(env_path =base_dir/ '.env')
+for file in poll_files[0:3]:
+    data = pd.read_csv(example_data_path /file)
+    response = handler.get_data(prompt=prompt,
+                            data = data.to_string())
