@@ -1,0 +1,4 @@
+Poll Name: BBC 100 Women 10th Anniversary Survey 2022
+Table Number: 19
+Question: Q8. To what extent has social media had a positive or negative impact on your life in the last 10 years (i.e. since 2012)?
+Data Summary: The survey asked respondents from various countries about the impact of social media on their lives in the past 10 years. The responses range from "Very positive" to "Very negative", with options like "Fairly positive", "Neither positive nor negative", and "Fairly negative" in between. The data is categorized by country, age group, employment status, relationship status, and other demographics.
