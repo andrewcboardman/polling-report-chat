@@ -36,6 +36,10 @@ class LLMHandler_rag:
                        region_name=os.getenv('AWS_DEFAULT_REGION'))
         self.llm = BedrockChat(model_id = "anthropic.claude-3-sonnet-20240229-v1:0",
               client = client,
+              model_kwargs = {'temperature':0.5,
+                              'top_k':50,
+                              'top_p':1
+                              } 
              )
         self.problem_cases = {}
     def get_response(self,
@@ -115,13 +119,15 @@ def run_rag_final(query):
         #  \n\nAssistant:""",
         template = """
         \n\nHuman: You are a helpful administrative assistant.
-    Using only the context provided, detail on which questions from polls may be relevant to this query, and return the file name and locations those questions might be found. Give a short summary of your findings
+    Using only the context provided, detail which questions from polls may be relevant to this query.
+    For each question, return the file name, question and question text. Give a short summary of the findings.
     Here is the query and context:
     {rag}
     Do not use any information not in the context.
     If there is no relevant information say 'I dont know'
     \n\nAssistant:""",
         input_variables=["rag"])
+     
     
     base_dir = Path(os.getcwd()).parents[0]
     handler = LLMHandler_rag(env_path =base_dir/ '.env')
@@ -131,7 +137,7 @@ def run_rag_final(query):
 
 
 
-run_rag_final(query = "what do people think about policing")
+run_rag_final(query = "what do people think about crime")
 
 
 
