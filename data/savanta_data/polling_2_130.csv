@@ -1,0 +1,47 @@
+Unnamed: 0,<< Contents,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39
+,P035983 NSPCC Parents Nat Rep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Table 131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,OccupationRetired. Which of the following best describes the previous occupation of the chief income earner in your household before retirement?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,BASE: All those whose chief income earner is retired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Age of child,,,Gender of child,,Age of parent,,,Gender of parent,,Regions,,,,,,,,,,,,SEG,,Ethnicity of parent,,,,,,Parental / Guardianship status,,,,Perspective on challenges relating to gender,,
+,,Total,0-5,6-11,12-18,Male,Female,18-34,35-64,65+,Male,Female,Northern Ireland,Scotland,North-West,North-East,Yorkshire & The Humber,Wales,West Midlands,East Midlands,South-West,South-East,East of England,London,ABC1,C2DE,White,Mixed/multiple,Asian or Asian British,Black or Black British,Another ethnicity,NET: Ethnic minority,Mother,Father,Parents,Gaurdian,Growing up as a boy is more challenging,Growing up as a girl is more challenging,Equally difficult
+,Significance Level: 95%,,a,b,c,a,b,a,b,*c,a,b,a,b,c,d,e,f,g,h,i,j,k,l,a,b,a,b,c,d,*e,f,a,b,c,d,a,b,c
+,Unweighted Total,2016,813,951,1024,1420,1293,610,1391,15,915,1098,54,148,227,93,171,94,185,151,169,276,181,267,1137,879,1684,76,121,119,15,325,1084,899,1983,33,235,561,1179
+,Total,2016,805,954,1032,1424,1292,605,1396,16,974,1039,62,147,234,91,164,90,181,163,163,270,182,270,1134,882,1685,75,122,119,15,325,1027,956,1983,33,241,559,1176
+,"High managerial, administrative or professional e.g. doctor, lawyer, medium / large company director (50+ people)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"Intermediate managerial, administrative or professional e.g. teacher, manager, accountant",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"Supervisor, administrative or professional e.g. police officer, nurse, secretary, self-employed",2,0,0,2,0,2,0,1,1,2,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,2,0,0,0,0,0,0,2,2,0,0,2,0
+,,*%,0,0,*%,0,*%,0,*%,0.07,*%,0,0,0,0,0,0.01,0,0,0.01,0,0,0,0,*%,0,*%,0,0,0,0,0,0,*%,*%,0,0,*%,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c,
+,"Skilled manual worker e.g. mechanic, plumber, electrician, lorry driver, train driver",5,0,1,4,2,3,0,5,0,3,2,0,0,1,0,1,0,0,0,0,1,0,2,0,5,5,0,0,0,0,0,2,2,4,1,2,3,0
+,,*%,0,*%,*%,*%,*%,0,*%,0,*%,*%,0,0,*%,0,0.01,0,0,0,0,*%,0,0.01,0,0.01,*%,0,0,0,0,0,*%,*%,*%,0.03,0.01,0.01,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,a,,,,,,,,,,abc,c,c,
+,"Semi-skilled or unskilled manual worker e.g. waiter, factory worker, receptionist, labourer",2,0,1,1,2,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,2,2,0,0,0,0,0,1,1,2,0,0,0,1
+,,*%,0,*%,*%,*%,*%,0,*%,0.07,*%,*%,0,0,0,0,0,0,0.01,0,0,0,0,*%,0,*%,*%,0,0,0,0,0,*%,*%,*%,0,0,0,*%
+,Casual worker (not in permanent employment),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Homemaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Retired on a state pension,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Retired on a private pension,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Unemployed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Full-time carer of other household member,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Student,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Prefer not to say,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,ABC1,1134,466,536,544,798,724,313,814,7,534,599,36,92,102,54,88,51,79,92,105,178,94,163,1134,0,923,45,79,80,7,209,597,526,1123,11,120,315,684
+,,0.56,0.58,0.56,0.53,0.56,0.56,0.52,0.58,0.47,0.55,0.58,0.57,0.63,0.44,0.6,0.54,0.57,0.44,0.56,0.64,0.66,0.52,0.6,1,0,0.55,0.6,0.65,0.68,0.47,0.64,0.58,0.55,0.57,0.33,0.5,0.56,0.58
+,,,c,,,,,,a,,,,,cgk,,cg,c,cg,,cg,cgk,cegk,,cg,b,,,,a,a,,a,d,d,d,,,,a
+,C2DE,882,340,418,488,626,568,292,582,8,441,439,27,55,132,36,76,38,102,71,58,92,88,107,0,882,762,30,43,38,8,116,430,430,860,22,120,245,492
+,,0.44,0.42,0.44,0.47,0.44,0.44,0.48,0.42,0.53,0.45,0.42,0.43,0.37,0.56,0.4,0.46,0.43,0.56,0.44,0.36,0.34,0.48,0.4,0,1,0.45,0.4,0.35,0.32,0.53,0.36,0.42,0.45,0.43,0.67,0.5,0.44,0.42
+,,,,,a,,,b,,,,,,,bdefhijl,,j,,bdfhijl,,,,bij,,,a,cdf,,,,,,,,,abc,c,,
+,"Columns Tested: a,b,c - a,b - a,b,c - a,b - a,b,c,d,e,f,g,h,i,j,k,l - a,b - a,b,c,d,e,f - a,b,c,d - a,b,c",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Prepared by Savanta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
