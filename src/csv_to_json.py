@@ -1,4 +1,7 @@
 import pandas as pd
+import glob
+import json
+from pathlib import Path
 
 ### FUNCTIONS ###
 def get_subject_and_question_into_json(file):
@@ -29,5 +32,17 @@ def get_json(file):
 
 def compile_json(file):
     json_file = get_subject_and_question_into_json(file)
-    json_file['data'] = get_json(file)
+    print(type(json_file))
+    json_file['data'] = json.loads(get_json(file))
     return json_file
+
+def main():
+    input_file = './data/savanta_data/polling_data61.csv'
+    output_file = './data/test_0.json'
+    output = compile_json(pd.read_csv(input_file))
+    with open(output_file, 'w') as outfile:
+        json.dump(output, outfile, indent=4, sort_keys=True)
+
+
+if __name__ == '__main__':
+    main()
