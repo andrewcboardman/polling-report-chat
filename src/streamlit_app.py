@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from pathlib import Path
 from parse_excel import parse_santava_excel
-from llm_handler import LLMHandler, prompt
+from llm_convert_to_text import convert_and_save
 
 
 def V_SPACE(lines): 
@@ -14,7 +14,7 @@ def rag_search(topic):
     return "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
 
 def run_query():
-    return 'Not implemented yet'
+    pass
 
 def import_data_tab():
     st.write('Please upload a csv or excel file containing a Santava polling data table.')
@@ -32,15 +32,16 @@ def import_data_tab():
         st.session_state['summaries'] = {}
 
     if st.button('Process incoming file(s)'):
-        # Parse the uploaded files
-        for uploaded_file in uploaded_files:
-            dfs_ = parse_santava_excel(uploaded_file)
-            for df in dfs_:
-                st.session_state['csv_strings'][uploaded_file.name] = df.to_csv(index=False)
         
         # Summarise the data using calls to Amazon Bedrock
-        for filename, df in st.session_state['csv_strings'].items():
-            st.session_state['summaries'][filename] = 'Lorem ipsum'
+        for uploaded_file in uploaded_files:
+            output_path = Path(os.getcwd()) / 'data/text_summaries'
+            print(uploaded_files, output_path)
+            summary_filenames = convert_and_save(
+                uploaded_file, 
+                uploaded_file.name,
+                output_path)
+            st.session_state['summaries'][uploaded_file.name] = summary_filenames
 
         st.write(f"{len(st.session_state['csv_strings'])} questions were successfully summarised.")
     
@@ -82,7 +83,9 @@ def poll_query_tab():
 
 def main():
     st.title('PollDancer')
-    st.image('./images/DALL·E 2024-04-16 17.40.19 - A logo design inverted.png')
+    # st.image(
+    #     './images/DALL·E 2024-04-16 17.40.19 - A logo design inverted.png',
+    # )
     st.subheader('Graceful shortcut to finding polling answers across government')
     if 'previous_searches' not in st.session_state.keys():
         st.session_state['previous_searches'] = []
