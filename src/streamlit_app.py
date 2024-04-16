@@ -1,18 +1,19 @@
 import streamlit as st
 import pandas as pd
+import os
+from pathlib import Path
 from parse_excel import parse_santava_excel
-from csv_to_json import compile_json
+from llm_handler import LLMHandler, prompt
 
-dfs = []
+
+def V_SPACE(lines): 
+    for _ in range(lines):
+        st.write("&nbsp;")
 
 def rag_search(topic):
-    return pd.DataFrame(dict(
-        question = ['Not implemented yet'],
-        group = ['Not implemented yet'],
-        result = ['Not implemented yet'],
-    ))
+    return "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
 
-def run_query(question, csv):
+def run_query():
     return 'Not implemented yet'
 
 def import_data_tab():
@@ -22,25 +23,31 @@ def import_data_tab():
         type=["csv", "xls", "xlsx"],
         accept_multiple_files=True,
         )
+    for uploaded_file in uploaded_files:
+        st.session_state['filenames'] = uploaded_file.name
 
-    file_format = st.selectbox(
-        'File format',
-        ("csv", "xls", "xlsx"),
-    )
+    if 'csv_strings' not in st.session_state:
+        st.session_state['csv_strings'] = {}
+    if 'summaries' not in st.session_state:
+        st.session_state['summaries'] = {}
 
     if st.button('Process incoming file(s)'):
-        st.session_state['dfs'] = []
+        # Parse the uploaded files
         for uploaded_file in uploaded_files:
             dfs_ = parse_santava_excel(uploaded_file)
             for df in dfs_:
-                st.session_state['csv_strings'].append(df.to_csv(index=False))
+                st.session_state['csv_strings'][uploaded_file.name] = df.to_csv(index=False)
         
-        st.session_state['summaries'] = []
-        for csv_string in st.session_state['csv_strings']:
-            st.session_state['summaries'].append(compile_json(df))
+        # Summarise the data using calls to Amazon Bedrock
+        for filename, df in st.session_state['csv_strings'].items():
+            st.session_state['summaries'][filename] = 'Lorem ipsum'
 
         st.write(f"{len(st.session_state['csv_strings'])} questions were successfully summarised.")
-
+    
+    if len(st.session_state['summaries']) > 0:
+        st.dataframe(st.session_state['summaries'])
+    else:
+        st.write('No poll summaries have been uploaded yet.')
 
 def rag_search_tab():
     search_topic = st.text_input(
@@ -50,7 +57,7 @@ def rag_search_tab():
     if search:
         # Placeholder for search functionality
         results = rag_search(search_topic)
-        st.dataframe(results)
+        st.write(results)
         st.session_state['previous_results'].append(results)
         st.session_state['previous_searches'].append(
             {
@@ -59,48 +66,37 @@ def rag_search_tab():
                 'Number of results': len(results)
             }
         )
-
-def poll_query_tab():
-    st.selectbox(st.session_state['csv_strings'][0])
-    select('Select a poll to query')
-    st.text_input('Enter query text')
-    if st.button('Run query'):
-        run_query(csv, query_text)
-
-
-def main():
-    st.title('Chat with polling data')
-    if 'previous_searches' not in st.session_state.keys():
-        st.session_state['previous_searches'] = []
-    if 'previous_results' not in st.session_state.keys():
-        st.session_state['previous_results'] = []
-    tabs = [
-        'Upload polling data', 
-        'Browse poll summaries',
-        'Semantic poll summary search',
-        'Search history',
-        'Query poll data'
-    ]
-    tab1, tab2, tab3, tab4, tab5 = st.tabs(tabs)
-
-    with tab1:
-        import_data_tab()
-    with tab2:
-        if len(st.session_state['summaries']) > 0:
-            st.dataframe(st.session_state['summaries'])
-        else:
-            st.write('No poll summaries have been uploaded yet.')
-    with tab3:
-        rag_search_tab()
-    with tab4:
+        
         if len(st.session_state['previous_searches']) > 0:
             st.dataframe(st.session_state['previous_searches'])
         else:
             st.write('No searches have been made yet.')
-    with tab5:
-        poll_query_tab()
 
 
+def poll_query_tab():
+    st.selectbox('Select a poll to query', options = st.session_state['csv_strings'].keys())
+    st.text_input('Enter query text')
+    if st.button('Run query'):
+        run_query()
+
+
+def main():
+    st.title('PollDancer')
+    st.image('./images/DALL·E 2024-04-16 17.40.19 - A logo design inverted.png')
+    st.subheader('Graceful shortcut to finding polling answers across government')
+    if 'previous_searches' not in st.session_state.keys():
+        st.session_state['previous_searches'] = []
+    if 'previous_results' not in st.session_state.keys():
+        st.session_state['previous_results'] = []
+
+    st.header('Upload polling data')
+    import_data_tab()
+    
+
+    V_SPACE(2)
+
+    st.header('Query polling data')
+    rag_search_tab()
 
 
 if __name__ == '__main__':
