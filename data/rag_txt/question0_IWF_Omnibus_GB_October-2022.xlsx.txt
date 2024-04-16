@@ -1,8 +1,0 @@
-File name: IWF_Omnibus_GB_October-2022.xlsx
-Question number: 1
-
-Question text: "Q1. Please note that answering this question is voluntary. If you do not feel comfortable answering the below question, please select 'Prefer not to say'. Be assured that all information shared in this survey is for research purpose only and will be kept confidential. All data will be processed in adherence to Market Research Society's Code of Conduct and Data Protection Act. We would like to understand what sort of websites, including some inappropriate or illegal sites, internet users may be exposed to. Please indicate whether you have ever come into contact with or stumbled across any of the following types of websites or content online?"
-
-Purpose: The purpose of this question is to understand the exposure of internet users to various types of inappropriate or illegal websites and online content, including hate websites, revenge porn, eating disorder promotion, extreme pornography, suicide promotion, child sexual abuse content, and terrorist websites.
-
-Key findings: According to the data, a significant portion of respondents (26%) reported encountering at least one of the listed types of websites or content. The most commonly encountered were hate websites (11%), sites with revenge porn/intimate image abuse (9%), and websites encouraging eating disorders (9%). Additionally, 6% of respondents reported encountering computer-generated images or cartoons of child sexual abuse, and 6% reported encountering child sexual abuse images or videos (child pornography). However, the majority (66%) stated that they had not encountered any of the listed types of websites or content.

@@ -1,8 +1,0 @@
-File name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
-Question number: Q9a. 
-
-Question text: For each of the following types of debt, please tell us whether it was a new debt for your household in the last six months (since November 2022) or if you already had it before November 2022, and if it has changed in size?
-
-Purpose: The question aims to understand the types of debt households have incurred, whether they are new debts since November 2022 or existing debts, and if the size of the debt has changed.
-
-Key findings: The data shows the breakdown of responses for various types of debt, such as personal loans, buy now pay later/hire purchase, overdrafts, credit cards, money borrowed from family or friends, Universal Credit advance payments, benefit overpayments, loans from unlicensed lenders, doorstep lenders, pawnbrokers, budgeting advances, credit union loans, and catalogue credit. For each type of debt, the data indicates the percentage of households that reported it as a new debt, an existing debt, or if the size of the debt has increased, decreased, or remained the same since November 2022.

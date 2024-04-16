@@ -1,5 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 18
-Question 5: To what extent do you think that the police handle each of the following types of protests/demonstrations well or badly?
-
-Summary of Data: The CSV file presents data from a poll conducted by Savanta on how the public perceives the police's handling of various types of protests and demonstrations. The data shows the total number of respondents and their responses categorized as "Very well," "Fairly well," "Fairly badly," "Very badly," and "Don't know" for each type of protest. The protests listed include environmental protests (e.g., Just Stop Oil, Extinction Rebellion), Black Lives Matter protests, pro-Palestine protests, anti-lockdown protests, and anti-Brexit protests. The data also provides summary statistics, including the percentage breakdown of responses for each category.

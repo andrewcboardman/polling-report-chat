@@ -1,7 +1,0 @@
-Poll: Homeless and Police PR - W184
-Table 7
-Question 2: Which of the following is closest to your view?
-
-The data comes from a poll on homelessness and views on whether it is a lifestyle choice or not. The CSV file contains responses from 2,235 respondents across various demographic groups such as gender, age, region, and voting preference.
-
-The poll results show that the majority (75%) of respondents believe that homelessness is not a lifestyle choice, while 16% consider it a lifestyle choice, and 9% responded with "Don't know." The responses varied across different demographic groups, with certain groups being more likely to view homelessness as a lifestyle choice compared to others.

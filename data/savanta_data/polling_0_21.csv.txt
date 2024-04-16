@@ -1,6 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: 22
-
-Question 5_2: Environmental protests e.g. Just Stop Oil, Extinction Rebellion : To what extent do you think that the police handle each of the following types protests / demonstrations well or badly?
-
-Summary: The data shows the responses of all respondents regarding their perception of how well the police handle environmental protests like Just Stop Oil and Extinction Rebellion. It provides the breakdown of responses, including "Very well", "Fairly well", "Fairly badly", "Very badly", and "Don't know", along with the percentage of respondents for each response. The data is further segmented by various demographic factors such as gender, age, region, voting behavior, and political affiliation.

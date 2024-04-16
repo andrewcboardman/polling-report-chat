@@ -1,8 +1,0 @@
-Poll Name: QTPW177Q4_9. Increasing the government grant for installing a heat pump from £5,000 to £7,500
-
-Table Number: Table 12
-
-Question: To what extent do you support or oppose each of the following proposals?
-
-Data Summary:
-The CSV file contains data from a poll that asked respondents about their support or opposition to increasing the government grant for installing a heat pump from £5,000 to £7,500. The data is broken down by gender, age, region, social grade, past voting behavior, and EU referendum vote. The results show that 56% of respondents supported the proposal (with 24% strongly supporting), while 19% opposed it. The remaining 25% were unsure. Support was higher among older age groups, those in England, and those who voted Remain in the 2016 EU referendum.

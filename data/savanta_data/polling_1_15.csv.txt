@@ -1,4 +1,0 @@
-Poll Name: The expansion of the Ultra-Low Emission Zone (ULEZ) in London
-Table Number: Table 16
-Question: QTPW177Q5_1. The expansion of the Ultra-Low Emission Zone (ULEZ) in London: Thinking about each of the following, how would it impact your attitude towards the party that you felt was responsible?
-Data Summary: The CSV file presents data from a poll conducted on people's attitudes towards a political party responsible for the expansion of the Ultra-Low Emission Zone (ULEZ) in London. The data is broken down by various demographics such as gender, age, region, social grade, past voting behavior, and EU referendum vote. It shows the percentage of respondents who would either stop voting for the responsible party, still vote but feel more negatively, still vote without changing their view, still vote and feel more positively, or don't know. The data provides insights into how different segments of the population might react to this policy decision.

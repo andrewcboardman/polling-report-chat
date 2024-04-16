@@ -1,6 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 12
-Question: Q3_2. Acting as a deterrent for criminal activity : To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
-
-Summary of Data:
-This CSV file contains data from a public opinion poll conducted on respondents' views on how well the police in the UK perform in deterring criminal activity. The data is categorized by demographic factors such as gender, age, region, and voting behavior. The question presented multiple response options ranging from "Very good job" to "Very bad job," along with a "Don't know" option. The data provides a breakdown of the responses across these options for the overall sample as well as various subgroups.

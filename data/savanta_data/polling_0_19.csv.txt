@@ -1,5 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 20
-Question: Q5. To what extent do you think that the police handle each of the following types protests / demonstrations well or badly?
-
-Summary of Data: This CSV file contains data from a survey where respondents were asked about their perception of how well the police handle different types of protests and demonstrations. The data is broken down by various demographic factors such as gender, age group, region, and political affiliation. The types of protests included environmental protests (e.g., Just Stop Oil, Extinction Rebellion), Black Lives Matter protests, Pro-Palestine protests, anti-lockdown protests, and anti-Brexit protests. The data shows the proportion of respondents who think the police handle each type of protest well or badly.

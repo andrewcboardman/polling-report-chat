@@ -1,5 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 16
-Question 3_6: "Investigating minor crimes: To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?"
-
-Summary of Data: The data presents the responses from 2,235 respondents across various demographic groups in the UK. The responses are categorized as "Very good job," "Fairly good job," "Fairly bad job," "Very bad job," and "Don't know." The data is broken down by gender, age, region, political affiliation, and voting behavior in the Brexit referendum. The results indicate that a significant portion of respondents (59%) believe the police do a "bad job" in investigating minor crimes, while 33% think they do a "good job."

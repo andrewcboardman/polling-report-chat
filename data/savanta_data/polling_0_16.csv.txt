@@ -1,6 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 17
-Question: Q4. Which of the following is closest to your view? 'The police in the UK...
-
-Summary:
-The data presents the responses from 2,235 respondents to a question about perceived biases of the police in the UK. The options ranged from having a strong right-wing bias to a strong left-wing bias, with the majority (34%) believing that the police do not have a right or left-wing bias. Around 26% perceived a right-wing bias (9% strong, 17% slight), while 12% perceived a left-wing bias (5% strong, 6% slight). The remaining 28% responded "Don't know". The data is broken down by demographic factors such as gender, age, region, and voting intention.

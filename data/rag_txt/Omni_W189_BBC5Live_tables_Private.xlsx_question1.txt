@@ -1,8 +1,0 @@
-File name: Omni_W189_BBC5Live_tables_Private.xlsx
-Question number: 2
-
-Question text: Q2. You mentioned that you have experienced or witnessed anti-social behaviour in your local area. Has this behaviour ever made you feel any of the following?
-
-Purpose: This question aims to understand the emotional impact of witnessing or experiencing anti-social behaviour on individuals in their local area.
-
-Key findings: The data reveals that a significant proportion (45%) of respondents felt angry or annoyed due to anti-social behaviour. Additionally, 30% reported feeling unsafe walking alone in their area, 18% felt frightened, and 12% felt unsafe in their homes. Notably, 27% did not experience any of the listed emotional impacts. The responses varied across different demographic groups, such as gender, age, and region.

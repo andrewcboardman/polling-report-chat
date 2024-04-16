@@ -1,6 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: 13
-Question: Q3_3. Policing peaceful protests in the UK : To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
-
-Summary of Data:
-The CSV file contains survey responses from 2,235 respondents in the UK regarding their perception of how the police handle peaceful protests. The data is broken down by demographics such as gender, age group, region, and political affiliation. Overall, 56% of respondents felt the police did a good job policing peaceful protests, while 35% felt they did a bad job. The remaining 9% did not know or did not provide a response.

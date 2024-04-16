@@ -1,7 +1,0 @@
-File name: P024065-BBC_100_Women10th_Anniversary_Survey_2022_COMB_Wtd_Tables_20221130_Private.xlsx
-Question number: 24
-Question text: Q10_4. With a family member (e.g. parent, sibling): Compared with 10 years ago (i.e. 2012), do you think women in your country feel more or less comfortable discussing a gender-based crime (e.g. domestic abuse, forced marriage, female genital mutilation) with each of the following?
-
-Purpose: This question aims to understand whether women feel more or less comfortable discussing gender-based crimes with family members compared to 10 years ago.
-
-Key findings: Overall, 63% of respondents feel more comfortable discussing gender-based crimes with family members now compared to 10 years ago, while 12% feel less comfortable. The proportion feeling more comfortable is highest in Indonesia (75%) and India (75%), and lowest in Russia (39%). The data suggests a positive trend towards increased openness in discussing these sensitive issues within families over the past decade.

@@ -1,8 +1,0 @@
-File name: Omni_W184_HomelessAndPolicePR_tables_Private.xlsx
-Question number: 3
-
-Question text: "Q3. Summary : To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?"
-
-Purpose: This question aims to gauge public perception of the police's performance in various aspects of their duties across the UK.
-
-Key findings: The data reveals that the public perceives the police as doing a good job in policing major events like football matches (70% saying they do a good job) and investigating major crimes (60% saying good job). However, opinions are more divided on their performance in investigating minor crimes (33% good job, 59% bad job), having a visible presence in local areas (36% good job, 59% bad job), and acting as a deterrent for criminal activity (40% good job, 51% bad job). The police's handling of peaceful protests is viewed more negatively, with 56% saying they do a good job and 35% saying they do a bad job.

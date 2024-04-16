@@ -1,6 +1,0 @@
-File name: P024065-BBC_100_Women10th_Anniversary_Survey_2022_COMB_Wtd_Tables_20221130_Private.xlsx
-Question 32: EMP_STATUS_1. Currently (i.e. 2022): Which of the following best describes your working status...
-
-Purpose: This question aims to understand the current employment status of the respondents across different countries.
-
-Key Findings: The data shows that 44% of the respondents were working full-time (30 hours or more per week), while 17% were working part-time (up to 29 hours per week). Additionally, 8% were not working but seeking work or temporarily unemployed/sick, 3% were not working and not seeking work, 7% were in education, 10% were retired, 10% were housewives/househusbands, and 1% were full-time carers. The employment status varied across different countries, age groups, and relationship statuses.

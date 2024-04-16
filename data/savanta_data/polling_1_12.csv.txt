@@ -1,7 +1,0 @@
-Poll Name: QTPW177Q4_10 from Transport Podcast
-
-Table Number: Table 13
-
-Question: Removing the requirement for all rented properties to be energy efficient (have an EPC 'C' rating) by 2025: To what extent do you support or oppose each of the following proposals?
-
-Summary: The CSV file contains responses from 2,100 respondents to a poll question about removing the requirement for rented properties to have an energy efficiency rating of 'C' by 2025. The data is broken down by demographic factors such as gender, age, region, social grade, and voting preference in the 2019 general election and 2016 EU referendum. Overall, 40% supported the proposal, while 36% opposed it, with the remaining 24% responding "Don't know".

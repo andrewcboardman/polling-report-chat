@@ -1,5 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: 21
-Question: Q5_1. Pro-Palestine protests: To what extent do you think that the police handle each of the following types of protests/demonstrations well or badly?
-
-Summary of Data: The CSV file contains responses from 2,235 respondents on how they perceive the police handle pro-Palestine protests. The responses are categorized as 'Very well', 'Fairly well', 'Fairly badly', 'Very badly', and 'Don't know'. The data is further broken down by demographics such as gender, age group, region, and political affiliation.

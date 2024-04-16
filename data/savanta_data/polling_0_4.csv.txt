@@ -1,7 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-
-Table Number: Table 5
-
-Question: Q1_2. In the UK's big cities: To what extent would you say that homelessness is, or is not, a problem in each of the following areas?
-
-Data Summary: The CSV file contains responses from 2,235 respondents across various demographics such as gender, age, region, and political affiliation. Over half (54%) of respondents indicated that homelessness is a big problem in UK cities, while 31% said it is somewhat a problem. Only 11% felt it is not much of a problem or not a problem at all. The data is further broken down by subgroups, allowing for analysis of differences in perception across different segments of the population.

@@ -1,4 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 2
-Question: Q1. Summary Problem: To what extent would you say that homelessness is, or is not, a problem in each of the following areas?
-Summary of Data: The CSV file contains survey responses from 2,235 respondents across different demographics (gender, age, region, political affiliation, etc.) on the extent to which homelessness is perceived as a problem in UK's big cities, in the UK generally, and in their own neighborhoods. The data shows the proportion of respondents who consider homelessness a problem in each of those areas, broken down by the different demographic variables.

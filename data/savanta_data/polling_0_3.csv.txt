@@ -1,5 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 4
-Question: Q1_1. In your neighbourhood: To what extent would you say that homelessness is, or is not, a problem in each of the following areas?
-
-Summary of Data: The CSV file presents data from a survey on the perception of homelessness as a problem in different areas. It provides weighted percentages across various demographic groups such as gender, age, region, political affiliation, and voting behavior. The data shows that while a significant portion (40%) considers homelessness a problem to some extent, the majority (56%) does not view it as much of a problem or not a problem at all in their respective neighborhoods.

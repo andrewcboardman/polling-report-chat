@@ -1,4 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 10
-Question: Q3. Summary Bad job: To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
-Summary of Data: The data presents the percentage of respondents who think the police do a bad job at various tasks, such as investigating minor crimes (59%), having a visible presence in their area (59%), acting as a deterrent for criminal activity (51%), policing peaceful protests in the UK (35%), investigating major crimes (30%), and policing major events like football matches (21%). The data is further broken down by demographics like gender, age, region, and voting behavior.

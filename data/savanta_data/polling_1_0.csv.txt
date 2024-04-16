@@ -1,7 +1,0 @@
-Poll Name: Transport Podcast
-Table Number: Table 1
-
-Question: "QTPW177Q1. Which policy areas, if any, do you think are most important for the government to focus on at the moment?"
-
-Summary of Data:
-The data presents the responses of 2,100 respondents to the question, broken down by various demographic factors such as gender, age, region, social grade, and past voting behavior. The data includes the number of respondents who selected each policy area as important, as well as the corresponding percentage of the total. The top policy areas identified as important were the NHS (61%), inflation and the cost of living (50%), the economy (43%), immigration (28%), and the environment and climate change (24%).

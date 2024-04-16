@@ -1,5 +1,0 @@
-Poll Name: Homeless and Police PR - W184
-Table Number: Table 8
-Question: Q3. Summary: To what extent do you think that, generally, the police in the UK do a good or bad job at each of the following?
-
-This CSV file contains data from a poll conducted by Savanta on the public perception of the UK police's performance in various areas. The poll had a base of 2,235 respondents who were asked to rate the police's job as "very good," "fairly good," "fairly bad," "very bad," or "don't know" for tasks like investigating minor and major crimes, having a visible presence, acting as a deterrent, policing protests and major events. The data provides the count and percentage for each rating across the different tasks.

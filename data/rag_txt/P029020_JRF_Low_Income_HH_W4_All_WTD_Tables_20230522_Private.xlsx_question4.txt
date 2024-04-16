@@ -1,7 +1,0 @@
-File Name: P029020_JRF_Low_Income_HH_W4_All_WTD_Tables_20230522_Private.xlsx
-Question Number: 4
-Question Text: Q4. Which of the following categories would best describe your ethnicity?
-
-Purpose: This question aims to gather information about the ethnic backgrounds of the survey respondents.
-
-Key Findings: The data shows that the majority of respondents (84%) identified as White (British/English/Welsh/Scottish/Northern Irish/British, Irish, Gypsy or Irish Traveller, or Any other White background). The second largest ethnic group was Asian or Asian British (6%), followed by Black or Black British (5%), and Mixed/Multiple ethnic groups (4%). A small percentage (1%) identified as belonging to Other ethnic groups or preferred not to disclose their ethnicity.

@@ -1,7 +1,0 @@
-Poll Name: Transport Podcast
-Table Number: Table 2
-
-Question: QTPW177Q3. Which of the following issues, if any, have you heard or read about recently?
-
-Summary of Data:
-The CSV file contains responses from 2,100 respondents across various demographic categories such as gender, age, region, social grade, and political affiliations. The data presents the proportion of respondents who have heard or read about various transport-related issues recently. Some of the key issues covered include delaying the ban on new diesel and petrol vehicles, ongoing rail strikes, the expansion of the Ultra-Low Emission Zone in London, the introduction of a 20 mph speed limit in Wales, proposed closure of railway ticket offices, scrapping the northern leg of the HS2 rail line, recent air traffic control disruptions, and delays in banning fossil fuel boilers for off-grid homes.
