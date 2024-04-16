@@ -1,3 +1,6 @@
 pandas
 openpyxl
 jupyter
+langchain
+streamlit
+watchdog
