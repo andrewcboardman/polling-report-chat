@@ -4,7 +4,7 @@ import glob
 
 # %%
 
-def parse_excel(file):
+def parse_santava_excel(file):
 
     sheets_remaining = True
     sheet_index = 1
@@ -22,7 +22,7 @@ def parse_excel(file):
 def main():
     i = 0
     for file in glob.glob('./data/savanta_data/*.xlsx'):
-        dfs = parse_excel(file)
+        dfs = parse_santava_excel(file)
         for j, df in enumerate(dfs):
             df.to_csv(f'./data/savanta_data/polling_{i}_{j}.csv', index=False)
 
