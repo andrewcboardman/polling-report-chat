@@ -76,3 +76,6 @@ for file in poll_files[0:3]:
     data = pd.read_csv(example_data_path /file)
     response = handler.get_data(prompt=prompt,
                             data = data.to_string())
+
+    with open(f"{file}.txt", "w") as file:
+        file.write(response.dict()['content'])  
