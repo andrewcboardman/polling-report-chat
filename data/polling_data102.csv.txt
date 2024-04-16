@@ -1,0 +1,5 @@
+The poll name is "BBC 100 Women 10th Anniversary Survey 2022" and it is Table 21 from the data.
+
+Question 10_1 asks: "Anonymously on social media: Compared with 10 years ago (i.e. 2012), do you think women in your country feel more or less comfortable discussing a gender-based crime (e.g. domestic abuse, forced marriage, female genital mutilation) with each of the following?"
+
+The CSV file contains responses from 15,723 respondents across 17 countries, including Brazil, China, Egypt, India, Indonesia, Kenya, Mexico, Nigeria, Pakistan, Russia, Saudi Arabia, Turkey, UK, Ukraine, USA. The data is broken down by various demographics such as age group, working status, education level, relationship status, and country.
