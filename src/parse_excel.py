@@ -22,9 +22,11 @@ def parse_santava_excel(file):
 def main():
     i = 0
     for file in glob.glob('./data/savanta_data/*.xlsx'):
+
         dfs = parse_santava_excel(file)
         for j, df in enumerate(dfs):
             df.to_csv(f'./data/savanta_data/polling_{i}_{j}.csv', index=False)
+        i+=1
 
 if __name__ == '__main__':
     main()
