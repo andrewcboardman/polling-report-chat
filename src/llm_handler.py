@@ -1,96 +1,84 @@
+#%%
 #general 
 import os
 #porject specfic
 import boto3
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 from langchain.llms.bedrock import Bedrock
 import pandas as pd
 #local
-from parsers.input_parsers import InputTopicTags, InputSimplified
-
-class HandlerCFG:
-    """Configuration class - currenly only holds inference modifier kwargs"""
-    def __init__(self,
-                 inference_modifier
-                 ):
-        self.inference_modifier = inference_modifier
-
+from langchain.prompts import PromptTemplate
 
 class LLMHandler:
     """LLM handler class - set up client 
     """
-    def __init__(self,
-                 CFG,
-                 output_parser):
+    def __init__(self, env_path):
         
-        load_dotenv()
+        load_dotenv(env_path)
         boto3.setup_default_session(aws_access_key_id = os.getenv('AWS_ACCESS_KEY_ID'),
                             aws_secret_access_key = os.getenv('AWS_SECRET_ACCESS_KEY')
                            )
         client = boto3.client(service_name='bedrock-runtime', 
-                       region_name=os.getenv('BWB_REGION_NAME'))
+                       region_name=os.getenv('AWS_DEFAULT_REGION'))
         self.llm = Bedrock(model_id = "anthropic.claude-instant-v1",
               client = client,
-              model_kwargs = CFG.inference_modifier
+              model_kwargs = {'max_tokens_to_sample':90000,
+                      "temperature":0.7,
+                      "top_k":50, #previously 250
+                      "top_p":1
+                      }
              )
-        self.CFG = CFG
-        self.output_parser = output_parser
         self.problem_cases = {}
 
-    def get_speech_intel(self,
-                         prompt,
-                         topic_tags ,
-                         speech_data,
-                         debates) -> pd.DataFrame:
+    def get_data(self,
+                 prompt,
+                 data) -> pd.DataFrame:
         """summarise input speech data 
 
         Args:
             prompt (langchain PromptTemplate): prompt to be passed to LLM
-            topic_tags (df): topic tags and associated descriptions
-            speech_data (df): speech date from a single MP
-            debates (_type_): list of debates to extract data from 
 
         Returns:
-            output (df): datafrane with the following columns (date, debate, mp, sumarry, quote, topic_tags)
         """
-        
-        topic_tags_dict = {k:v for (k,v) in zip(topic_tags.Tag,topic_tags.Topic) }
-        topic_tags_input = InputTopicTags(input_data= topic_tags_dict)
-        # topic_tags_list = list(topic_tags.Tag.values)
-        # topic_tags_input = InputTopicTagsList(input_data= topic_tags_list)
 
         output = pd.DataFrame()
-        chain = prompt | self.llm | self.output_parser 
-
-        for debate in debates:
-            debate_df = speech_data.query('debate_id == @debate')
-            print(f'Working on {debate_df.iloc[0]['Member']} : {debate}')
-            # input_debate = InputDataSingleDebate(date = debate_df.iloc[0]['Date'],
-            #                           debate = debate_df.iloc[0]['Debate'],
-            #                           debate_location = debate_df.iloc[0]['Debate Location'],
-            #                           member = debate_df.iloc[0]['Member'],
-            #                           speech_content = debate_df['Speech Content'].to_string(index =False))   #send as string
-            
-            input_debate = InputSimplified(speech = debate_df['Speech Content'].str.cat(sep=' '))
-            try:
-                response = chain.invoke({"topic_tags":topic_tags_input,
-                                        "speech_table": input_debate})
-                response_dict = dict(response)
-                response_dict['topic_tags'] = [response_dict['topic_tags']]
-                #for simplified version
-                response_dict['date'] =  debate_df.iloc[0]['Date']
-                response_dict['debate'] =  debate_df.iloc[0]['Debate']
-                response_dict['mp'] = debate_df.iloc[0]['Member']
-                response_df = pd.DataFrame(response_dict, index=[0])
-                output = pd.concat([output,response_df])
-            except ValueError as e:
-                self.problem_cases[' '.join([debate_df.iloc[0]['Member'],
-                                             debate_df.iloc[0]['Date'], 
-                                             debate_df.iloc[0]['Debate']])] = e
-                continue
-        return output
+        chain = prompt | self.llm 
+        response = chain.invoke({"prompt":prompt,
+                                "data": data})
+        return response
 
 
+#%%
 
 
+#---- prompt 
+prompt = PromptTemplate(
+    template = """
+    \n\nHuman: As an experienced data analyst for a political organization your task is to analyze a speech and produce strategic summaries. 
+    ### Context You have been provided speech data and format guidelines to structure your analysis. 
+    ### Instructions from the speech data: 
+    1. Write a concise sentence summary 
+    2. Provide a relevant one to two sentence quotation 
+    3. Indicate whether the speech is relevant to healthcare or social care issues by labeling it as 'True' if so, or 'False' if not. 
+    4. Apply any suitable tags from the list of approved topic tags if the speech content matches the tag description. If none of the tags apply or you are unsure, use "Other".  
+    
+    Organize your responses according to the format instructions.
+    Make sure the quotation you return is at least one complete sentence long .
+    Ensure you only use tags present in the list of approved topic tags. 
+    do you understand these instructions?
+    \n\nAssistant:  Yes, I understand the instructions. As an analyst, my task is to analyze speech data and provide strategic summaries following the specified format guidelines.
+    \n\nnHuman:  Here are the speech details
+    ### Speech Data 
+    ### List of approved tags with topic descriptions  
+    {data}
+    Do not repeat instructions back to me, just complete the task and return a response compatible  with the format instructions and nothing else.
+     \n\nAssistant:""",
+    input_variables=["topic_tags","speech_table"])
 
+
+## --------------- set up CFG adn LLM 
+
+handler = LLMHandler(env_path = '.env')
+
+response = handler.get_data(prompt=prompt,
+                            data = 'some data')
