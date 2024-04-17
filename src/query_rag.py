@@ -25,7 +25,10 @@ from operator import itemgetter
 from langchain_core.runnables import RunnableParallel, RunnableLambda
 
 class LLMHandler_rag:
-    """LLM handler class - set up client
+    """
+    This class is used to handle the interaction with the LLM model.
+    Args:
+        env_path (str): The path to the .env file.
     """
     def __init__(self, env_path):
         load_dotenv(env_path)
@@ -45,17 +48,26 @@ class LLMHandler_rag:
     def get_response(self,
                      prompt,
                      rag_prompt):
-        """summarise input speech data
+        """
+        This function gets a response from the LLM model.
         Args:
-            prompt (langchain PromptTemplate): prompt to be passed to LLM
+            prompt (PromptTemplate): The prompt template to use.
+            rag_prompt (str): The RAG prompt to use.
         Returns:
+            response (dict): The response from the LLM model.
         """
         chain = prompt | self.llm
         response = chain.invoke({"prompt":prompt,"rag":rag_prompt})
         return response
 
 def run_rag_final(query):
-
+    """
+    This function runs the RAG model and returns the response.
+    Args:
+        query (str): The query to search for.
+    Returns:
+        response (str): The response from the LLM model.
+    """
     folder_path = "data/rag_txt/"
 
     # List all files and directories in the specified folder
@@ -63,12 +75,11 @@ def run_rag_final(query):
 
     # Filter out only the file paths
     file_paths = [os.path.join(folder_path, file) for file in files_and_directories if os.path.isfile(os.path.join(folder_path, file))]
+    
     # Load the document, split it into chunks, embed each chunk and load it into the vector store.
     doc_list = []
     for doc in file_paths:
         raw_documents = TextLoader(doc).load()
-        #text_splitter = CharacterTextSplitter(chunk_size=2000, chunk_overlap=20)
-        #documents = text_splitter.split_documents(raw_documents)
         doc_list.append(raw_documents[0])
 
     vectorstore = Chroma.from_documents(
@@ -78,10 +89,9 @@ def run_rag_final(query):
         ),
        # persist_directory="./chromadb_3",
     )
-
+    # Here k represents the maximum number of similar documents to retrieve
     retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 10})
 
-    #fine tuned team used this prompt
     prompt_template = """
     ### query: {query}
 
@@ -99,8 +109,6 @@ def run_rag_final(query):
             "query": itemgetter("query"),
         }
         | prompt
-    # | ft_llm
-    # | StrOutputParser()
     )
 
     query = query
@@ -108,15 +116,6 @@ def run_rag_final(query):
 
 
     final_prompt_template = PromptTemplate(
-        # template = """
-        # \n\nHuman: You are a super helpful robot that does exactly as told.
-        # Outline the purpose of this poll and briefly describe the data.
-        # Include where the poll came from, the question number, and a description of the CSV file.
-        # Do not exceed more than 200 words.
-        # write the poll name, the table number, the question and a summary of the data
-        # {data}
-        # Do not repeat instructions back to me, just complete the task.
-        #  \n\nAssistant:""",
         template = """
         \n\nHuman: You are a helpful administrative assistant.
     Using only the context provided, detail which questions from polls are relevant to this query. If the context is not relevent return 'There is no information in the database'.
@@ -133,10 +132,6 @@ def run_rag_final(query):
     response = handler.get_response(prompt = final_prompt_template, rag_prompt = rag_prompt)
     
     return response.dict()['content']
-
-
-
-#run_rag_final(query = "what do people think about crime")
 
 
 
