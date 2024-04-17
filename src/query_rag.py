@@ -56,7 +56,7 @@ class LLMHandler_rag:
 
 def run_rag_final(query):
 
-    folder_path = "../data/rag_txt/"
+    folder_path = "data/rag_txt/"
 
     # List all files and directories in the specified folder
     files_and_directories = os.listdir(folder_path)
@@ -79,7 +79,7 @@ def run_rag_final(query):
        # persist_directory="./chromadb_3",
     )
 
-    retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 5})
+    retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 10})
 
     #fine tuned team used this prompt
     prompt_template = """
@@ -119,25 +119,24 @@ def run_rag_final(query):
         #  \n\nAssistant:""",
         template = """
         \n\nHuman: You are a helpful administrative assistant.
-    Using only the context provided, detail which questions from polls may be relevant to this query.
+    Using only the context provided, detail which questions from polls are relevant to this query. If the context is not relevent return 'There is no information in the database'.
     For each question, return the file name, question and question text. Give a short summary of the findings.
     Here is the query and context:
     {rag}
-    Do not use any information not in the context.
-    If there is no relevant information say 'I dont know'
+    Do not use any information not in the context. do not return any information about irrelevent files.
     \n\nAssistant:""",
         input_variables=["rag"])
      
     
-    base_dir = Path(os.getcwd()).parents[0]
+    base_dir = Path(os.getcwd())
     handler = LLMHandler_rag(env_path =base_dir/ '.env')
     response = handler.get_response(prompt = final_prompt_template, rag_prompt = rag_prompt)
     
-    return print(response.dict()['content'])
+    return response.dict()['content']
 
 
 
-run_rag_final(query = "what do people think about crime")
+#run_rag_final(query = "what do people think about crime")
 
 
 

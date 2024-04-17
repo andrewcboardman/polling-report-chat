@@ -82,7 +82,7 @@ class LLMHandler:
 
 
 #%%
-def convert_and_save(excel_path, output_path):
+def convert_and_save(excel_path,file_name, output_path):
     prompt = PromptTemplate(
         template = """
         \n\nHuman: You are a super helpful robot that does exactly as told. 
@@ -108,7 +108,7 @@ def convert_and_save(excel_path, output_path):
     cover_sheet = pd.read_excel(excel_path,sheet_name=0)
     questions = retrieve_questions(cover_sheet)
     t= 0 
-    file_name = str(excel_path).split('/')[-1]
+    file_name = file_name#str(excel_path).split('/')[-1]
 
     output_filenames = []
     for table in poll_questions_tables:
