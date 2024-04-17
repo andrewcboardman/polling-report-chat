@@ -5,7 +5,14 @@ import glob
 # %%
 
 def parse_santava_excel(file):
+    """
+    This function reads an excel file and returns a list of pandas dataframes, one for each sheet in the excel file.
 
+    Args:
+        file (str): The path to the excel file to be read.
+    Returns:
+        dfs (list): A list of pandas dataframes, one for each sheet in the excel file.
+    """
     sheets_remaining = True
     sheet_index = 1
     dfs = []
@@ -20,6 +27,11 @@ def parse_santava_excel(file):
             return dfs
 
 def main():
+    """
+    This function reads all excel files in the data/savanta_data directory and writes the data to csv files in the same directory.
+    The function reads each sheet in the excel file and writes the data to a separate csv file.
+    The csv files are named according to the excel file and sheet index.
+    """
     i = 0
     for file in glob.glob('./data/savanta_data/*.xlsx'):
 

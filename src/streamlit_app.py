@@ -6,15 +6,24 @@ from parse_excel import parse_santava_excel
 from llm_convert_to_text import convert_and_save
 from query_rag import run_rag_final
 
-def V_SPACE(lines): 
+def V_SPACE(lines):
+    """
+    This function creates vertical space in the streamlit app.
+    Args:
+        lines (int): The number of lines to create.
+    """
     for _ in range(lines):
         st.write("&nbsp;")
 
 def rag_search(topic):
+    """
+    This function searches the RAG model for relevant polling data according to a given topic.
+    Args:
+        topic (str): The topic to search for.
+    Returns:
+        results (list): A list of relevant polling data.
+    """
     return "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-
-# def run_rag_final(query = ):
-#     pass
 
 def import_data_tab():
     st.write('Please upload a csv or excel file containing a Santava polling data table.')
@@ -44,13 +53,11 @@ def import_data_tab():
             st.session_state['summaries'][uploaded_file.name] = summary_filenames
 
         st.write(f"Data successfully processed!")
-    #{len(st.session_state['csv_strings'])}
-    # if len(st.session_state['summaries']) > 0:
-    #     st.dataframe(st.session_state['summaries'])
-    # else:
-    #     st.write('No poll summaries have been uploaded yet.')
 
 def rag_search_tab():
+    """
+    This function creates the RAG search tab in the streamlit app.
+    """
     search_topic = st.text_input(
                 'Enter a topic to identify relevant polling data.'
                 )
@@ -64,17 +71,14 @@ def rag_search_tab():
             {
                 'Search topic': search_topic,
                 'Number of polls searched': len(st.session_state['summaries']),
-                # 'Number of results': len(results)
             }
         )
-        
-        # if len(st.session_state['previous_searches']) > 0:
-        #     st.dataframe(st.session_state['previous_searches'])
-        # else:
-        #     st.write('No searches have been made yet.')
 
 
 def poll_query_tab():
+    """
+    This function creates the poll query tab in the streamlit app.
+    """
     st.selectbox('Select a poll to query', options = st.session_state['csv_strings'].keys())
     st.text_input('Enter query text')
     if st.button('Run query'):
@@ -82,6 +86,9 @@ def poll_query_tab():
 
 
 def main():
+    """
+    This function creates the main streamlit app.
+    """
     st.title('PollDancer')
     st.subheader('Graceful shortcut to finding polling answers across government')
     with st.sidebar:
@@ -106,12 +113,5 @@ def main():
 if __name__ == '__main__':
     main()
 
-
-
-# if uploaded_file is not None:
-#     if uploaded_file.type.isin(["xls","xlsx"]):
-#         dfs = parse_santava_excel(uploaded_file)
-#     elif uploaded_file.type.isin(["csv"]):
-#         dfs = parse_santava_csv(uploaded_file)
 
     
